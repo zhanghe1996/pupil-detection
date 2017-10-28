@@ -14,6 +14,6 @@
 ### Running the test
 ```
 cd ROOT_DIR/code
-python -m visualize.py
+python visualize.py
 ```
 Notice that with **--black** flag we could detect black pupils. 
