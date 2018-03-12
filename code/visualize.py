@@ -52,19 +52,38 @@ def main():
     f.close()
 
     for image_name in image_names:
-        image_path = os.path.join(data_path, 'Images', image_name)
+        image_path = os.path.join(data_path, 'Images', image_name + '.jpeg')
+
+        if not os.path.isfile(image_path):
+            continue
+        
         im = cv2.imread(image_path)
         npy_path = os.path.join(data_path, 'Annotations', 
                     image_name.split('.')[0] + '_eye.npy')
         dets = np.load(npy_path)
         dets = np.uint16(np.around(dets))
         dets = np.ndarray.tolist(dets)
-        
+
+        remove = []
+        overlap = [False] * len(dets)
+        if len(dets) > 2:
+            for i in range(0, len(dets)):
+                for j in range(i + 1, len(dets)):
+                    if dets[i][1] <= dets[j][3] and dets[i][3] >= dets[j][1]:
+                        overlap[i] = True
+                        overlap[j] = True
+            
+            for i in range(0, len(dets)):
+                if not overlap[i]:
+                    remove.append(i)
+
+            dets = np.ndarray.tolist(np.delete(dets, remove, 0))
+
         pupils = []
         for det in dets:
             det.append('eye')
             eye = im[det[1] : det[3], det[0] : det[2]]
-            pupil = locate_pupil(eye, det, args.consider_black)
+            pupil = locate_pupil(eye, det, image_name.split('_')[1], args.consider_black)
             if pupil is not None:
                 pupils.append(pupil)
         

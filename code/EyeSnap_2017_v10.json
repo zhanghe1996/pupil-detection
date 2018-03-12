@@ -1,0 +1,3414 @@
+{
+  "results": [
+    {
+      "objectId": "XOiBuDG3m1",
+      "LEFT_EYE_REFRACTION": "23*3 - 1",
+      "DOCTOR_NAME": "Joshus Meyer final version",
+      "PRODUCT": "sailfish",
+      "NAME": "Elliot Soloway",
+      "updatedAt": "2017-08-09T18:23:11.108Z",
+      "DIAGNOSIS": "problematic",
+      "SEX": "Male",
+      "DOWNWARD_GAZE": {
+        "__type": "File",
+        "name": "c9b96b7fb1200e02aea44afa13d01df3_DOWNWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/c9b96b7fb1200e02aea44afa13d01df3_DOWNWARD_GAZE"
+      },
+      "MODEL": "Pixel",
+      "createdAt": "2017-08-09T14:46:44.392Z",
+      "RIGHTWARD_GAZE": {
+        "__type": "File",
+        "name": "d1755ce99140d7a55f7094d0b2e4ac43_RIGHTWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/d1755ce99140d7a55f7094d0b2e4ac43_RIGHTWARD_GAZE"
+      },
+      "AGE": 50,
+      "API_LEVEL": "25",
+      "FORWARD_GAZE": {
+        "__type": "File",
+        "name": "14a5cc289ea4bda87540278a06c35994_FORWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/14a5cc289ea4bda87540278a06c35994_FORWARD_GAZE"
+      },
+      "ETHNICITY": "white",
+      "DEVICE": "sailfish",
+      "LEFTWARD_GAZE": {
+        "__type": "File",
+        "name": "b942acf87491525f7d41da7aeb98670d_LEFTWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/b942acf87491525f7d41da7aeb98670d_LEFTWARD_GAZE"
+      },
+      "RIGHT_EYE_REFRACTION": "45 - 6/7 22",
+      "UPWARD_GAZE": {
+        "__type": "File",
+        "name": "dc349315db2466af4405691c876472ec_UPWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/dc349315db2466af4405691c876472ec_UPWARD_GAZE"
+      }
+    },
+    {
+      "objectId": "zPAlSrvSwL",
+      "LEFT_EYE_REFRACTION": "unsure",
+      "DOCTOR_NAME": "Joshua Meyer",
+      "PRODUCT": "sailfish",
+      "NAME": "Elliot Soloway",
+      "updatedAt": "2017-11-03T18:51:55.143Z",
+      "DIAGNOSIS": "bad",
+      "SEX": "Male",
+      "DOWNWARD_GAZE": {
+        "__type": "File",
+        "name": "9e48a65fb13f5c9c9db3f7e975d13d60_DOWNWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/9e48a65fb13f5c9c9db3f7e975d13d60_DOWNWARD_GAZE"
+      },
+      "MODEL": "Pixel",
+      "createdAt": "2017-08-09T18:13:37.825Z",
+      "RIGHTWARD_GAZE": {
+        "__type": "File",
+        "name": "e2bb92ea27c52da0db08413847951eeb_RIGHTWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/e2bb92ea27c52da0db08413847951eeb_RIGHTWARD_GAZE"
+      },
+      "AGE": 55,
+      "API_LEVEL": "25",
+      "FORWARD_GAZE": {
+        "__type": "File",
+        "name": "561643c28ba55239945cec4001824f2d_FORWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/561643c28ba55239945cec4001824f2d_FORWARD_GAZE"
+      },
+      "ETHNICITY": "White",
+      "DEVICE": "sailfish",
+      "LEFTWARD_GAZE": {
+        "__type": "File",
+        "name": "c69afbeebbdfeb4f14a524380b813550_LEFTWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/c69afbeebbdfeb4f14a524380b813550_LEFTWARD_GAZE"
+      },
+      "RIGHT_EYE_REFRACTION": "unsure",
+      "UPWARD_GAZE": {
+        "__type": "File",
+        "name": "13b9ce9a7c10d1f5e76869df98162ff0_UPWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/13b9ce9a7c10d1f5e76869df98162ff0_UPWARD_GAZE"
+      }
+    },
+    {
+      "objectId": "YI9UzKWb8k",
+      "PRODUCT": "tbltevzw",
+      "AGE": 22,
+      "SEX": "Female",
+      "MODEL": "SM-N915V",
+      "NAME": "Megan Oosthoek",
+      "DOCTOR_NAME": "Joshua Meyer",
+      "ETHNICITY": "White",
+      "DEVICE": "tbltevzw",
+      "API_LEVEL": "21",
+      "createdAt": "2017-08-10T18:02:48.800Z",
+      "updatedAt": "2017-08-10T18:02:48.800Z"
+    },
+    {
+      "objectId": "PWKlEL28pg",
+      "PRODUCT": "tbltevzw",
+      "AGE": 22,
+      "SEX": "Female",
+      "MODEL": "SM-N915V",
+      "NAME": "Megan Oosthoek",
+      "DOCTOR_NAME": "Joshua Meyer",
+      "ETHNICITY": "White",
+      "DEVICE": "tbltevzw",
+      "API_LEVEL": "21",
+      "createdAt": "2017-08-10T18:02:51.025Z",
+      "updatedAt": "2017-11-17T05:23:44.703Z",
+      "FORWARD_GAZE": {
+        "__type": "File",
+        "name": "61f1026522a44caae176bf79311b3910_FORWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/61f1026522a44caae176bf79311b3910_FORWARD_GAZE"
+      },
+      "UPWARD_GAZE": {
+        "__type": "File",
+        "name": "27f27a69e2770f8e0c25216c7830895d_UPWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/27f27a69e2770f8e0c25216c7830895d_UPWARD_GAZE"
+      },
+      "DOWNWARD_GAZE": {
+        "__type": "File",
+        "name": "11cf1cce7966a87169cc58d4d9821c42_DOWNWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/11cf1cce7966a87169cc58d4d9821c42_DOWNWARD_GAZE"
+      },
+      "LEFTWARD_GAZE": {
+        "__type": "File",
+        "name": "da4bb658c49204a1712d478c5669c39f_LEFTWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/da4bb658c49204a1712d478c5669c39f_LEFTWARD_GAZE"
+      },
+      "RIGHTWARD_GAZE": {
+        "__type": "File",
+        "name": "05df9b2b929c5792cf2ac87d4af01dea_RIGHTWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/05df9b2b929c5792cf2ac87d4af01dea_RIGHTWARD_GAZE"
+      },
+      "LEFT_EYE_DIAGNOSIS": "Normal",
+      "RIGHT_EYE_DIAGNOSIS": "Normal"
+    },
+    {
+      "objectId": "8tFlqVAKUB",
+      "DEVICE": "xiaomi",
+      "API_LEVEL": "17",
+      "PRODUCT": "xiaomi",
+      "MODEL": "xiaomi-1s",
+      "DOCTOR_NAME": "18810541234",
+      "SEX": "Female",
+      "createdAt": "2017-08-10T20:17:33.976Z",
+      "updatedAt": "2017-08-10T20:17:33.976Z"
+    },
+    {
+      "objectId": "RsujAOqDCo",
+      "DEVICE": "mako",
+      "MODEL": "Nexus 4",
+      "NAME": "vwoijgwe213213",
+      "DOCTOR_NAME": "vwoijgwe213213",
+      "AGE": 2132314,
+      "SEX": "Male",
+      "API_LEVEL": "16",
+      "PRODUCT": "occam",
+      "ETHNICITY": "fvd324",
+      "createdAt": "2017-08-12T04:29:02.968Z",
+      "updatedAt": "2017-08-12T04:29:02.968Z"
+    },
+    {
+      "objectId": "2nAkrTSA47",
+      "DEVICE": "mako",
+      "MODEL": "Nexus 4",
+      "NAME": "vwoijgwe213213",
+      "DOCTOR_NAME": "vwoijgwe213213",
+      "AGE": 2132314,
+      "SEX": "Male",
+      "API_LEVEL": "16",
+      "PRODUCT": "occam",
+      "ETHNICITY": "fvd324",
+      "createdAt": "2017-08-12T04:50:15.556Z",
+      "updatedAt": "2017-08-12T04:50:15.556Z"
+    },
+    {
+      "objectId": "RKA0yFc8YR",
+      "PRODUCT": "heroqltevzw",
+      "SEX": "Male",
+      "NAME": "hakan",
+      "DOCTOR_NAME": "Hakan Demirci ",
+      "DEVICE": "heroqltevzw",
+      "API_LEVEL": "24",
+      "MODEL": "SM-G930V",
+      "createdAt": "2017-08-17T19:29:07.395Z",
+      "updatedAt": "2017-11-06T13:58:51.555Z",
+      "FORWARD_GAZE": {
+        "__type": "File",
+        "name": "9f9e6297c55c579fc8fb597a75ca1e8b_FORWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/9f9e6297c55c579fc8fb597a75ca1e8b_FORWARD_GAZE"
+      },
+      "UPWARD_GAZE": {
+        "__type": "File",
+        "name": "4af47ae38981b459ac8263f9aa30f0e4_UPWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/4af47ae38981b459ac8263f9aa30f0e4_UPWARD_GAZE"
+      },
+      "DOWNWARD_GAZE": {
+        "__type": "File",
+        "name": "108c6ae098f8320ddc3c656c2aed06f6_DOWNWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/108c6ae098f8320ddc3c656c2aed06f6_DOWNWARD_GAZE"
+      }
+    },
+    {
+      "objectId": "Cbn15QggHf",
+      "PRODUCT": "heroqltevzw",
+      "SEX": "Male",
+      "DOCTOR_NAME": "Hakan Demirci ",
+      "DEVICE": "heroqltevzw",
+      "API_LEVEL": "24",
+      "MODEL": "SM-G930V",
+      "createdAt": "2017-08-17T19:33:38.534Z",
+      "updatedAt": "2017-11-06T14:00:21.032Z"
+    },
+    {
+      "objectId": "FnmM0qP8dE",
+      "PRODUCT": "heroqltevzw",
+      "SEX": "Male",
+      "NAME": "Hakan",
+      "DOCTOR_NAME": "Hakan Demirci ",
+      "DEVICE": "heroqltevzw",
+      "API_LEVEL": "24",
+      "MODEL": "SM-G930V",
+      "createdAt": "2017-08-17T19:47:22.375Z",
+      "updatedAt": "2017-11-06T14:01:28.362Z",
+      "FORWARD_GAZE": {
+        "__type": "File",
+        "name": "433ec1e088c010788adc9cb375cd1b6e_FORWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/433ec1e088c010788adc9cb375cd1b6e_FORWARD_GAZE"
+      },
+      "UPWARD_GAZE": {
+        "__type": "File",
+        "name": "4458d4385b0eaafbe78d05d13d01a77b_UPWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/4458d4385b0eaafbe78d05d13d01a77b_UPWARD_GAZE"
+      },
+      "DOWNWARD_GAZE": {
+        "__type": "File",
+        "name": "5347c9f42c82b0f70acfa425b2952fcc_DOWNWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/5347c9f42c82b0f70acfa425b2952fcc_DOWNWARD_GAZE"
+      },
+      "LEFTWARD_GAZE": {
+        "__type": "File",
+        "name": "630add8556ca9c2fb3d7e51fd45d002e_LEFTWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/630add8556ca9c2fb3d7e51fd45d002e_LEFTWARD_GAZE"
+      },
+      "RIGHTWARD_GAZE": {
+        "__type": "File",
+        "name": "fed1394bd6998a6720adea732c873dff_RIGHTWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/fed1394bd6998a6720adea732c873dff_RIGHTWARD_GAZE"
+      }
+    },
+    {
+      "objectId": "eBuyCCyDCs",
+      "PRODUCT": "heroqltevzw",
+      "AGE": 2,
+      "SEX": "Female",
+      "MODEL": "SM-G930V",
+      "NAME": "Anesthesia Douglas",
+      "DOCTOR_NAME": "Hakan Demirci ",
+      "DEVICE": "heroqltevzw",
+      "DIAGNOSIS": "retinoblastoma ",
+      "API_LEVEL": "24",
+      "createdAt": "2017-08-17T21:16:28.551Z",
+      "updatedAt": "2017-11-06T14:02:41.124Z",
+      "FORWARD_GAZE": {
+        "__type": "File",
+        "name": "51051294eb359d07d777f22e55fedf8b_FORWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/51051294eb359d07d777f22e55fedf8b_FORWARD_GAZE"
+      }
+    },
+    {
+      "objectId": "DTHPzrZL88",
+      "PRODUCT": "sailfish",
+      "SEX": "Male",
+      "DOCTOR_NAME": "Joshua Meyer",
+      "DEVICE": "sailfish",
+      "API_LEVEL": "25",
+      "MODEL": "Pixel",
+      "createdAt": "2017-08-23T01:03:30.947Z",
+      "updatedAt": "2017-11-03T18:51:58.993Z"
+    },
+    {
+      "objectId": "JM1YOyPAt2",
+      "PRODUCT": "sailfish",
+      "SEX": "Male",
+      "DOCTOR_NAME": "Joshua Meyer",
+      "DEVICE": "sailfish",
+      "API_LEVEL": "25",
+      "MODEL": "Pixel",
+      "createdAt": "2017-08-23T01:06:05.438Z",
+      "updatedAt": "2017-11-03T18:51:56.555Z"
+    },
+    {
+      "objectId": "HBN7Gywosg",
+      "DEVICE": "xiaomi",
+      "API_LEVEL": "17",
+      "PRODUCT": "xiaomi",
+      "MODEL": "xiaomi-1s",
+      "DOCTOR_NAME": "18810541234",
+      "SEX": "Female",
+      "createdAt": "2017-08-23T05:53:44.216Z",
+      "updatedAt": "2017-08-23T05:53:44.216Z"
+    },
+    {
+      "objectId": "sKdYmjGD3C",
+      "DEVICE": "mako",
+      "MODEL": "Nexus 4",
+      "NAME": "vwoijgwe213213",
+      "DOCTOR_NAME": "vwoijgwe213213",
+      "AGE": 2132314,
+      "SEX": "Male",
+      "API_LEVEL": "16",
+      "PRODUCT": "occam",
+      "ETHNICITY": "fvd324",
+      "createdAt": "2017-08-23T18:12:43.987Z",
+      "updatedAt": "2017-08-23T18:12:43.987Z"
+    },
+    {
+      "objectId": "PlyFNRcoqG",
+      "PRODUCT": "p1_global_com",
+      "AGE": 14,
+      "SEX": "Male",
+      "MODEL": "LG-H815T",
+      "NAME": "Syed Ali",
+      "LEFT_EYE_REFRACTION": "left",
+      "RIGHT_EYE_REFRACTION": "right",
+      "DOCTOR_NAME": "ali",
+      "ETHNICITY": "Dull",
+      "DEVICE": "p1",
+      "DIAGNOSIS": "verymuch",
+      "API_LEVEL": "22",
+      "createdAt": "2017-08-24T16:53:27.166Z",
+      "updatedAt": "2017-08-24T16:53:27.166Z"
+    },
+    {
+      "objectId": "o3pz8DSXcx",
+      "PRODUCT": "p1_global_com",
+      "AGE": 14,
+      "SEX": "Male",
+      "MODEL": "LG-H815T",
+      "NAME": "Syed Ali",
+      "LEFT_EYE_REFRACTION": "left",
+      "RIGHT_EYE_REFRACTION": "right",
+      "DOCTOR_NAME": "ali",
+      "ETHNICITY": "Dull",
+      "DEVICE": "p1",
+      "DIAGNOSIS": "verymuch",
+      "API_LEVEL": "22",
+      "createdAt": "2017-08-24T16:53:27.648Z",
+      "updatedAt": "2017-08-24T16:53:27.648Z"
+    },
+    {
+      "objectId": "szR7nrxiyF",
+      "DEVICE": "h7762",
+      "API_LEVEL": "17",
+      "PRODUCT": "GT-S7582",
+      "MODEL": "GT-S7582",
+      "DOCTOR_NAME": "managed",
+      "SEX": "Male",
+      "createdAt": "2017-08-24T19:59:59.177Z",
+      "updatedAt": "2017-08-24T19:59:59.177Z"
+    },
+    {
+      "objectId": "Dl2DCmbEtS",
+      "DEVICE": "h7762",
+      "API_LEVEL": "17",
+      "PRODUCT": "GT-S7582",
+      "MODEL": "GT-S7582",
+      "DOCTOR_NAME": "managed",
+      "SEX": "Male",
+      "createdAt": "2017-08-24T20:00:07.987Z",
+      "updatedAt": "2017-08-24T20:00:07.987Z"
+    },
+    {
+      "objectId": "uPRCqEUtve",
+      "DEVICE": "scx15_sp7715ga",
+      "API_LEVEL": "19",
+      "PRODUCT": "scx15_sp7715gaCustom",
+      "MODEL": "A54B",
+      "DOCTOR_NAME": "Herman",
+      "SEX": "Male",
+      "createdAt": "2017-08-25T12:22:15.085Z",
+      "updatedAt": "2017-08-25T12:22:15.085Z"
+    },
+    {
+      "objectId": "vQ2DExuvxt",
+      "PRODUCT": "j7xeltedx",
+      "SEX": "Female",
+      "MODEL": "SM-J710GN",
+      "NAME": "pai Aung ",
+      "LEFT_EYE_REFRACTION": "Music spill English like ",
+      "RIGHT_EYE_REFRACTION": "Music like that did friend ",
+      "DOCTOR_NAME": "pai Aung ",
+      "ETHNICITY": "Music mp3love ",
+      "DEVICE": "j7xelte",
+      "DIAGNOSIS": "Music like that did friend ",
+      "API_LEVEL": "23",
+      "createdAt": "2017-08-27T13:49:09.268Z",
+      "updatedAt": "2017-08-27T13:50:34.790Z",
+      "FORWARD_GAZE": {
+        "__type": "File",
+        "name": "70af3455c06a91fb57afdd565546da16_FORWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/70af3455c06a91fb57afdd565546da16_FORWARD_GAZE"
+      },
+      "UPWARD_GAZE": {
+        "__type": "File",
+        "name": "a749f974a8a42531ba79048671b23b5e_UPWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/a749f974a8a42531ba79048671b23b5e_UPWARD_GAZE"
+      },
+      "DOWNWARD_GAZE": {
+        "__type": "File",
+        "name": "86ea2a4dcfad81ecfefda603c8cd583b_DOWNWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/86ea2a4dcfad81ecfefda603c8cd583b_DOWNWARD_GAZE"
+      }
+    },
+    {
+      "objectId": "Osev6p7JGV",
+      "PRODUCT": "j7xeltedx",
+      "SEX": "Male",
+      "DOCTOR_NAME": "pai Aung ",
+      "DEVICE": "j7xelte",
+      "API_LEVEL": "23",
+      "MODEL": "SM-J710GN",
+      "createdAt": "2017-08-27T13:50:36.338Z",
+      "updatedAt": "2017-08-27T13:50:36.338Z"
+    },
+    {
+      "objectId": "dweICQdtlQ",
+      "PRODUCT": "heroqltevzw",
+      "SEX": "Male",
+      "DOCTOR_NAME": "Hakan Demirci ",
+      "DEVICE": "heroqltevzw",
+      "API_LEVEL": "24",
+      "MODEL": "SM-G930V",
+      "createdAt": "2017-08-28T13:53:08.594Z",
+      "updatedAt": "2017-11-06T13:59:51.311Z"
+    },
+    {
+      "objectId": "TzTnxtteqC",
+      "PRODUCT": "heroqltevzw",
+      "SEX": "Male",
+      "DOCTOR_NAME": "Hakan Demirci ",
+      "DEVICE": "heroqltevzw",
+      "API_LEVEL": "24",
+      "MODEL": "SM-G930V",
+      "createdAt": "2017-08-28T13:53:37.239Z",
+      "updatedAt": "2017-11-06T14:01:13.330Z",
+      "FORWARD_GAZE": {
+        "__type": "File",
+        "name": "d71686e28992c7de40ea58bf81f30e1c_FORWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/d71686e28992c7de40ea58bf81f30e1c_FORWARD_GAZE"
+      }
+    },
+    {
+      "objectId": "BKBokUc7hF",
+      "PRODUCT": "heroqltevzw",
+      "SEX": "Male",
+      "DOCTOR_NAME": "Hakan Demirci ",
+      "DEVICE": "heroqltevzw",
+      "API_LEVEL": "24",
+      "MODEL": "SM-G930V",
+      "createdAt": "2017-08-29T20:01:48.834Z",
+      "updatedAt": "2017-11-06T14:00:39.791Z"
+    },
+    {
+      "objectId": "JJDliGs4P2",
+      "PRODUCT": "zeroltedv",
+      "SEX": "Male",
+      "DOCTOR_NAME": "Lísia Aoki",
+      "DEVICE": "zerolte",
+      "API_LEVEL": "24",
+      "MODEL": "SM-G925I",
+      "createdAt": "2017-08-29T20:03:11.625Z",
+      "updatedAt": "2017-11-07T17:26:56.904Z",
+      "FORWARD_GAZE": {
+        "__type": "File",
+        "name": "71afc6ca6f09694ad3e0cb0d2e417d66_FORWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/71afc6ca6f09694ad3e0cb0d2e417d66_FORWARD_GAZE"
+      },
+      "UPWARD_GAZE": {
+        "__type": "File",
+        "name": "f1b5c16f18ba0a66985335b389ccbb49_UPWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/f1b5c16f18ba0a66985335b389ccbb49_UPWARD_GAZE"
+      },
+      "DOWNWARD_GAZE": {
+        "__type": "File",
+        "name": "45cc3874708503b67f7ff7797e8323f3_DOWNWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/45cc3874708503b67f7ff7797e8323f3_DOWNWARD_GAZE"
+      },
+      "LEFTWARD_GAZE": {
+        "__type": "File",
+        "name": "5caf6640ab91f437ba3670d9f72a988b_LEFTWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/5caf6640ab91f437ba3670d9f72a988b_LEFTWARD_GAZE"
+      },
+      "RIGHTWARD_GAZE": {
+        "__type": "File",
+        "name": "910c93b307fde5c16bea51b54ec92c95_RIGHTWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/910c93b307fde5c16bea51b54ec92c95_RIGHTWARD_GAZE"
+      }
+    },
+    {
+      "objectId": "GtJyB6hZtG",
+      "DEVICE": "flo",
+      "API_LEVEL": "18",
+      "PRODUCT": "razor",
+      "MODEL": "Nexus 5",
+      "DOCTOR_NAME": ".;",
+      "SEX": "Female",
+      "ETHNICITY": "ma",
+      "createdAt": "2017-08-29T20:43:56.281Z",
+      "updatedAt": "2017-08-29T20:43:56.281Z"
+    },
+    {
+      "objectId": "Hxfp8ZmlGK",
+      "PRODUCT": "DAV-703L",
+      "AGE": 100,
+      "SEX": "Male",
+      "MODEL": "HUAWEI P8max",
+      "NAME": "Es",
+      "DOCTOR_NAME": "Elliot ",
+      "ETHNICITY": "Who knows",
+      "DEVICE": "HWP8max",
+      "API_LEVEL": "23",
+      "createdAt": "2017-08-30T15:15:15.925Z",
+      "updatedAt": "2017-08-30T15:21:45.416Z",
+      "FORWARD_GAZE": {
+        "__type": "File",
+        "name": "6ba1c23e873f7ff58e877f736c1f7b08_FORWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/6ba1c23e873f7ff58e877f736c1f7b08_FORWARD_GAZE"
+      },
+      "UPWARD_GAZE": {
+        "__type": "File",
+        "name": "ad08b25137bbb49d5295681910ddd140_UPWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/ad08b25137bbb49d5295681910ddd140_UPWARD_GAZE"
+      },
+      "DOWNWARD_GAZE": {
+        "__type": "File",
+        "name": "a9113072bdfdaf472e6526eef9a0799a_DOWNWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/a9113072bdfdaf472e6526eef9a0799a_DOWNWARD_GAZE"
+      },
+      "LEFTWARD_GAZE": {
+        "__type": "File",
+        "name": "e3e17c7c3cbfba9a8fd72398c52c8a75_LEFTWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/e3e17c7c3cbfba9a8fd72398c52c8a75_LEFTWARD_GAZE"
+      },
+      "RIGHTWARD_GAZE": {
+        "__type": "File",
+        "name": "515caf8071fb59561529a23e6d204aa6_RIGHTWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/515caf8071fb59561529a23e6d204aa6_RIGHTWARD_GAZE"
+      }
+    },
+    {
+      "objectId": "DQeLkATmhf",
+      "PRODUCT": "zeroltedv",
+      "SEX": "Male",
+      "DOCTOR_NAME": "Lísia Aoki",
+      "DEVICE": "zerolte",
+      "API_LEVEL": "24",
+      "MODEL": "SM-G925I",
+      "createdAt": "2017-09-08T10:50:41.022Z",
+      "updatedAt": "2017-11-07T17:27:50.974Z",
+      "FORWARD_GAZE": {
+        "__type": "File",
+        "name": "d432b3809eb43b8f2e903cf5da2385a9_FORWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/d432b3809eb43b8f2e903cf5da2385a9_FORWARD_GAZE"
+      },
+      "UPWARD_GAZE": {
+        "__type": "File",
+        "name": "1e6da5c8cfe22741acaa193bc287d939_UPWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/1e6da5c8cfe22741acaa193bc287d939_UPWARD_GAZE"
+      },
+      "DOWNWARD_GAZE": {
+        "__type": "File",
+        "name": "c81a87c0526355c9651b4c347e618d06_DOWNWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/c81a87c0526355c9651b4c347e618d06_DOWNWARD_GAZE"
+      }
+    },
+    {
+      "objectId": "jb0TKmmugA",
+      "LEFT_EYE_REFRACTION": "+0.50",
+      "DOCTOR_NAME": "Zeynep gursel ozkurt ",
+      "PRODUCT": "j2ltejv",
+      "NAME": "ahter ozkurt",
+      "updatedAt": "2017-09-10T17:06:05.878Z",
+      "DIAGNOSIS": "healthy",
+      "SEX": "Female",
+      "DOWNWARD_GAZE": {
+        "__type": "File",
+        "name": "e557056337c49c84c0d333fbec332a4a_DOWNWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/e557056337c49c84c0d333fbec332a4a_DOWNWARD_GAZE"
+      },
+      "MODEL": "SM-J200F",
+      "createdAt": "2017-09-10T17:02:18.512Z",
+      "RIGHTWARD_GAZE": {
+        "__type": "File",
+        "name": "c543bbf6b1ee86fd284586c4f4ae12dc_RIGHTWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/c543bbf6b1ee86fd284586c4f4ae12dc_RIGHTWARD_GAZE"
+      },
+      "AGE": 9,
+      "API_LEVEL": "22",
+      "FORWARD_GAZE": {
+        "__type": "File",
+        "name": "370ed3d7e987d7162f911bfaf9c3ab29_FORWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/370ed3d7e987d7162f911bfaf9c3ab29_FORWARD_GAZE"
+      },
+      "ETHNICITY": "turk",
+      "DEVICE": "j2lte",
+      "LEFTWARD_GAZE": {
+        "__type": "File",
+        "name": "9b74c714d4dff734f1564aa711cf0b48_LEFTWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/9b74c714d4dff734f1564aa711cf0b48_LEFTWARD_GAZE"
+      },
+      "RIGHT_EYE_REFRACTION": "+0.50",
+      "UPWARD_GAZE": {
+        "__type": "File",
+        "name": "775f0d97f9dad7714df84f7d1ed69069_UPWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/775f0d97f9dad7714df84f7d1ed69069_UPWARD_GAZE"
+      }
+    },
+    {
+      "objectId": "juLXJTZvXS",
+      "LEFT_EYE_REFRACTION": "+2.00*90",
+      "DOCTOR_NAME": "Zeynep gursel ozkurt ",
+      "PRODUCT": "j2ltejv",
+      "NAME": "Osman ozkurt",
+      "updatedAt": "2017-09-10T17:13:10.629Z",
+      "DIAGNOSIS": "healthy astigmatism",
+      "SEX": "Male",
+      "DOWNWARD_GAZE": {
+        "__type": "File",
+        "name": "d774194fa0ab6cdb487ad3d999bf5e14_DOWNWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/d774194fa0ab6cdb487ad3d999bf5e14_DOWNWARD_GAZE"
+      },
+      "MODEL": "SM-J200F",
+      "createdAt": "2017-09-10T17:09:49.731Z",
+      "RIGHTWARD_GAZE": {
+        "__type": "File",
+        "name": "a9c77d5fd2ae916633bf85cf3f030068_RIGHTWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/a9c77d5fd2ae916633bf85cf3f030068_RIGHTWARD_GAZE"
+      },
+      "AGE": 5,
+      "API_LEVEL": "22",
+      "FORWARD_GAZE": {
+        "__type": "File",
+        "name": "7abdc217d2bd5488c30238dae543693d_FORWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/7abdc217d2bd5488c30238dae543693d_FORWARD_GAZE"
+      },
+      "ETHNICITY": "turk",
+      "DEVICE": "j2lte",
+      "LEFTWARD_GAZE": {
+        "__type": "File",
+        "name": "c2dd8036982dd6227f881f1b7c46af3b_LEFTWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/c2dd8036982dd6227f881f1b7c46af3b_LEFTWARD_GAZE"
+      },
+      "RIGHT_EYE_REFRACTION": "+0.75*90",
+      "UPWARD_GAZE": {
+        "__type": "File",
+        "name": "cfff3fd39f636148dc36745147cb581c_UPWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/cfff3fd39f636148dc36745147cb581c_UPWARD_GAZE"
+      }
+    },
+    {
+      "objectId": "4CnCMfnK4m",
+      "PRODUCT": "heroqltevzw",
+      "SEX": "Male",
+      "DOCTOR_NAME": "Hakan Demirci ",
+      "DEVICE": "heroqltevzw",
+      "API_LEVEL": "24",
+      "MODEL": "SM-G930V",
+      "createdAt": "2017-09-12T12:33:59.810Z",
+      "updatedAt": "2017-11-06T14:02:23.423Z",
+      "FORWARD_GAZE": {
+        "__type": "File",
+        "name": "83f71b5ed70ea2b0a315977ec062ee5f_FORWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/83f71b5ed70ea2b0a315977ec062ee5f_FORWARD_GAZE"
+      },
+      "UPWARD_GAZE": {
+        "__type": "File",
+        "name": "34324035c0acf5573b62eaced5ba1877_UPWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/34324035c0acf5573b62eaced5ba1877_UPWARD_GAZE"
+      },
+      "DOWNWARD_GAZE": {
+        "__type": "File",
+        "name": "50bbd40f8e403794cc00f068cbda57d5_DOWNWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/50bbd40f8e403794cc00f068cbda57d5_DOWNWARD_GAZE"
+      },
+      "LEFTWARD_GAZE": {
+        "__type": "File",
+        "name": "5257708fb7c7fdfb1ff43ecf4023dab1_LEFTWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/5257708fb7c7fdfb1ff43ecf4023dab1_LEFTWARD_GAZE"
+      },
+      "RIGHTWARD_GAZE": {
+        "__type": "File",
+        "name": "8697c85cbe0b82ba7fc42b247ea67acb_RIGHTWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/8697c85cbe0b82ba7fc42b247ea67acb_RIGHTWARD_GAZE"
+      }
+    },
+    {
+      "objectId": "gu1U6EPKeE",
+      "PRODUCT": "heroqltevzw",
+      "SEX": "Male",
+      "DOCTOR_NAME": "Hakan Demirci ",
+      "DEVICE": "heroqltevzw",
+      "API_LEVEL": "24",
+      "MODEL": "SM-G930V",
+      "createdAt": "2017-09-12T13:24:35.703Z",
+      "updatedAt": "2017-11-06T14:02:02.850Z",
+      "FORWARD_GAZE": {
+        "__type": "File",
+        "name": "45ea4c1cbd5565715b7d1a024a83f338_FORWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/45ea4c1cbd5565715b7d1a024a83f338_FORWARD_GAZE"
+      },
+      "UPWARD_GAZE": {
+        "__type": "File",
+        "name": "ac1b48bbd6255db986f41ac844f10fe9_UPWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/ac1b48bbd6255db986f41ac844f10fe9_UPWARD_GAZE"
+      },
+      "DOWNWARD_GAZE": {
+        "__type": "File",
+        "name": "2b03fd79a6b8924649ae5bc594d96cc4_DOWNWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/2b03fd79a6b8924649ae5bc594d96cc4_DOWNWARD_GAZE"
+      },
+      "LEFTWARD_GAZE": {
+        "__type": "File",
+        "name": "02acde6815fd24487713931c3befe775_LEFTWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/02acde6815fd24487713931c3befe775_LEFTWARD_GAZE"
+      },
+      "RIGHTWARD_GAZE": {
+        "__type": "File",
+        "name": "3b1459c090629844bc6f2b77eafc579f_RIGHTWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/3b1459c090629844bc6f2b77eafc579f_RIGHTWARD_GAZE"
+      }
+    },
+    {
+      "objectId": "uFDGXsBKAw",
+      "PRODUCT": "heroqltevzw",
+      "SEX": "Male",
+      "DOCTOR_NAME": "Hakan Demirci ",
+      "DEVICE": "heroqltevzw",
+      "API_LEVEL": "24",
+      "MODEL": "SM-G930V",
+      "createdAt": "2017-09-12T15:00:20.044Z",
+      "updatedAt": "2017-11-06T14:02:34.133Z",
+      "FORWARD_GAZE": {
+        "__type": "File",
+        "name": "ad0d5cac3ff3255f97dedf1cd56e8db5_FORWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/ad0d5cac3ff3255f97dedf1cd56e8db5_FORWARD_GAZE"
+      },
+      "UPWARD_GAZE": {
+        "__type": "File",
+        "name": "6b87a4105bf517372ddee1e7078cd419_UPWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/6b87a4105bf517372ddee1e7078cd419_UPWARD_GAZE"
+      },
+      "DOWNWARD_GAZE": {
+        "__type": "File",
+        "name": "781266c2c6d3e36e9d00289d7077a033_DOWNWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/781266c2c6d3e36e9d00289d7077a033_DOWNWARD_GAZE"
+      },
+      "LEFTWARD_GAZE": {
+        "__type": "File",
+        "name": "67c76ca61cc146f2d2ab4ee0cfc42614_LEFTWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/67c76ca61cc146f2d2ab4ee0cfc42614_LEFTWARD_GAZE"
+      },
+      "RIGHTWARD_GAZE": {
+        "__type": "File",
+        "name": "f730a3e8ae0385bec58a6041c52de9ce_RIGHTWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/f730a3e8ae0385bec58a6041c52de9ce_RIGHTWARD_GAZE"
+      }
+    },
+    {
+      "objectId": "psF23v2OM1",
+      "PRODUCT": "heroqltevzw",
+      "SEX": "Male",
+      "DOCTOR_NAME": "Hakan Demirci ",
+      "DEVICE": "heroqltevzw",
+      "API_LEVEL": "24",
+      "MODEL": "SM-G930V",
+      "createdAt": "2017-09-12T16:29:38.478Z",
+      "updatedAt": "2017-11-06T14:02:38.344Z",
+      "FORWARD_GAZE": {
+        "__type": "File",
+        "name": "3ab33341949f5a88bb469ddf6bb26a4f_FORWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/3ab33341949f5a88bb469ddf6bb26a4f_FORWARD_GAZE"
+      },
+      "UPWARD_GAZE": {
+        "__type": "File",
+        "name": "a2da34970f639af0010948ac4c138ff7_UPWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/a2da34970f639af0010948ac4c138ff7_UPWARD_GAZE"
+      },
+      "DOWNWARD_GAZE": {
+        "__type": "File",
+        "name": "7ebf119f825cac9461ac7badb49902ca_DOWNWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/7ebf119f825cac9461ac7badb49902ca_DOWNWARD_GAZE"
+      },
+      "LEFTWARD_GAZE": {
+        "__type": "File",
+        "name": "0625c27b4d710b6ed335525bec1dd4a4_LEFTWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/0625c27b4d710b6ed335525bec1dd4a4_LEFTWARD_GAZE"
+      }
+    },
+    {
+      "objectId": "XYXmG3YHSS",
+      "PRODUCT": "heroqltevzw",
+      "SEX": "Male",
+      "DOCTOR_NAME": "Hakan Demirci ",
+      "DEVICE": "heroqltevzw",
+      "API_LEVEL": "24",
+      "MODEL": "SM-G930V",
+      "createdAt": "2017-09-12T16:46:59.531Z",
+      "updatedAt": "2017-11-06T14:01:46.257Z",
+      "FORWARD_GAZE": {
+        "__type": "File",
+        "name": "2a9d5b3ccdb292fe082abda67db92495_FORWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/2a9d5b3ccdb292fe082abda67db92495_FORWARD_GAZE"
+      },
+      "UPWARD_GAZE": {
+        "__type": "File",
+        "name": "a46fbe57fef5b062c549553f717dd849_UPWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/a46fbe57fef5b062c549553f717dd849_UPWARD_GAZE"
+      },
+      "DOWNWARD_GAZE": {
+        "__type": "File",
+        "name": "8b5d5f46640c01b097106ee02783f34b_DOWNWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/8b5d5f46640c01b097106ee02783f34b_DOWNWARD_GAZE"
+      },
+      "LEFTWARD_GAZE": {
+        "__type": "File",
+        "name": "59546b37fb8b56926517c88e149f0d99_LEFTWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/59546b37fb8b56926517c88e149f0d99_LEFTWARD_GAZE"
+      },
+      "RIGHTWARD_GAZE": {
+        "__type": "File",
+        "name": "2c67358d494a84451eba5dca88bef46a_RIGHTWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/2c67358d494a84451eba5dca88bef46a_RIGHTWARD_GAZE"
+      },
+      "DIAGNOSIS": "retinoblastoma"
+    },
+    {
+      "objectId": "fwgq8Y9jhL",
+      "PRODUCT": "heroqltevzw",
+      "SEX": "Male",
+      "DOCTOR_NAME": "Hakan Demirci ",
+      "DEVICE": "heroqltevzw",
+      "API_LEVEL": "24",
+      "MODEL": "SM-G930V",
+      "createdAt": "2017-09-14T14:06:15.828Z",
+      "updatedAt": "2017-11-06T14:00:25.258Z",
+      "FORWARD_GAZE": {
+        "__type": "File",
+        "name": "010fe8a9bcaf327d5f0a073d7056c4f9_FORWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/010fe8a9bcaf327d5f0a073d7056c4f9_FORWARD_GAZE"
+      },
+      "UPWARD_GAZE": {
+        "__type": "File",
+        "name": "bb6f17c52ec35f339dedc6f76bae19ce_UPWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/bb6f17c52ec35f339dedc6f76bae19ce_UPWARD_GAZE"
+      },
+      "DOWNWARD_GAZE": {
+        "__type": "File",
+        "name": "d4a85ed709db150d308f27f0ffe96048_DOWNWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/d4a85ed709db150d308f27f0ffe96048_DOWNWARD_GAZE"
+      },
+      "LEFTWARD_GAZE": {
+        "__type": "File",
+        "name": "8af77faff5c76f2d9c9f336b78a8c3db_LEFTWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/8af77faff5c76f2d9c9f336b78a8c3db_LEFTWARD_GAZE"
+      },
+      "RIGHTWARD_GAZE": {
+        "__type": "File",
+        "name": "d2e5052b827635179d537bff047ab5f7_RIGHTWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/d2e5052b827635179d537bff047ab5f7_RIGHTWARD_GAZE"
+      }
+    },
+    {
+      "objectId": "T2BE7wsuWG",
+      "PRODUCT": "treltexx",
+      "SEX": "Male",
+      "DOCTOR_NAME": "Cem Ozgonul ",
+      "DEVICE": "trelte",
+      "API_LEVEL": "23",
+      "MODEL": "SM-N910C",
+      "createdAt": "2017-09-15T08:57:11.106Z",
+      "updatedAt": "2017-09-15T08:57:11.106Z"
+    },
+    {
+      "objectId": "fxKBzW5BGR",
+      "PRODUCT": "heroqltevzw",
+      "SEX": "Male",
+      "DOCTOR_NAME": "Hakan Demirci ",
+      "DEVICE": "heroqltevzw",
+      "API_LEVEL": "24",
+      "MODEL": "SM-G930V",
+      "createdAt": "2017-09-15T19:20:34.310Z",
+      "updatedAt": "2017-11-06T14:01:20.183Z",
+      "FORWARD_GAZE": {
+        "__type": "File",
+        "name": "2540e97382ae7abd72c6d5ec46d5f700_FORWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/2540e97382ae7abd72c6d5ec46d5f700_FORWARD_GAZE"
+      },
+      "UPWARD_GAZE": {
+        "__type": "File",
+        "name": "c8e6007907095e7a378493d6f6af3df2_UPWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/c8e6007907095e7a378493d6f6af3df2_UPWARD_GAZE"
+      },
+      "DOWNWARD_GAZE": {
+        "__type": "File",
+        "name": "9e07368e9f875b89b373521098b200fa_DOWNWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/9e07368e9f875b89b373521098b200fa_DOWNWARD_GAZE"
+      },
+      "LEFTWARD_GAZE": {
+        "__type": "File",
+        "name": "a5b326a3092615b125d345c0c08798f5_LEFTWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/a5b326a3092615b125d345c0c08798f5_LEFTWARD_GAZE"
+      },
+      "RIGHTWARD_GAZE": {
+        "__type": "File",
+        "name": "bd14b7d526bdab0042a4b9d1c8311655_RIGHTWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/bd14b7d526bdab0042a4b9d1c8311655_RIGHTWARD_GAZE"
+      }
+    },
+    {
+      "objectId": "d6EcFuuvTE",
+      "PRODUCT": "heroqltevzw",
+      "SEX": "Male",
+      "DOCTOR_NAME": "Hakan Demirci ",
+      "DEVICE": "heroqltevzw",
+      "API_LEVEL": "24",
+      "MODEL": "SM-G930V",
+      "createdAt": "2017-09-16T02:02:48.455Z",
+      "updatedAt": "2017-11-06T13:59:14.586Z"
+    },
+    {
+      "objectId": "YAmrfgoQdm",
+      "DEVICE": "klte",
+      "MODEL": "SM-G900F",
+      "NAME": "He Zhang",
+      "DOCTOR_NAME": "He Zhang",
+      "AGE": 20,
+      "RIGHT_EYE_REFRACTION": "100",
+      "SEX": "Male",
+      "API_LEVEL": "19",
+      "PRODUCT": "kltexx",
+      "DIAGNOSIS": "Negative",
+      "LEFT_EYE_REFRACTION": "20",
+      "ETHNICITY": "Asian",
+      "createdAt": "2017-09-16T06:19:20.022Z",
+      "updatedAt": "2017-09-16T06:21:09.310Z",
+      "FORWARD_GAZE": {
+        "__type": "File",
+        "name": "2d0d406ec31580c1673056d8952fe641_FORWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/2d0d406ec31580c1673056d8952fe641_FORWARD_GAZE"
+      }
+    },
+    {
+      "objectId": "KQYNgwJkYT",
+      "PRODUCT": "zeroltedv",
+      "SEX": "Male",
+      "DOCTOR_NAME": "Lísia Aoki",
+      "DEVICE": "zerolte",
+      "API_LEVEL": "24",
+      "MODEL": "SM-G925I",
+      "createdAt": "2017-09-18T15:32:00.481Z",
+      "updatedAt": "2017-11-07T17:28:49.966Z",
+      "RIGHTWARD_GAZE": {
+        "__type": "File",
+        "name": "8cdb8eb4e725f951118b6f81350581b3_RIGHTWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/8cdb8eb4e725f951118b6f81350581b3_RIGHTWARD_GAZE"
+      },
+      "FORWARD_GAZE": {
+        "__type": "File",
+        "name": "eff1eb86d245c5ae9707729c232dde78_FORWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/eff1eb86d245c5ae9707729c232dde78_FORWARD_GAZE"
+      },
+      "UPWARD_GAZE": {
+        "__type": "File",
+        "name": "9227d2c191633c73f03b0cefddc70e40_UPWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/9227d2c191633c73f03b0cefddc70e40_UPWARD_GAZE"
+      },
+      "LEFTWARD_GAZE": {
+        "__type": "File",
+        "name": "3d368f5f56c42ef2e86efd1313bcde49_LEFTWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/3d368f5f56c42ef2e86efd1313bcde49_LEFTWARD_GAZE"
+      },
+      "DOWNWARD_GAZE": {
+        "__type": "File",
+        "name": "8e92455ad6bb64644f93af886d9121cb_DOWNWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/8e92455ad6bb64644f93af886d9121cb_DOWNWARD_GAZE"
+      }
+    },
+    {
+      "objectId": "gFIC3hIWlb",
+      "PRODUCT": "heroqltevzw",
+      "AGE": 11,
+      "SEX": "Male",
+      "MODEL": "SM-G930V",
+      "NAME": "Josiah james",
+      "DOCTOR_NAME": "Hakan Demirci ",
+      "DEVICE": "heroqltevzw",
+      "DIAGNOSIS": "retinoblastoma ",
+      "API_LEVEL": "24",
+      "createdAt": "2017-09-18T16:56:48.544Z",
+      "updatedAt": "2017-11-06T14:02:42.596Z"
+    },
+    {
+      "objectId": "gPxHlDUIQS",
+      "PRODUCT": "heroqltevzw",
+      "AGE": 11,
+      "SEX": "Male",
+      "MODEL": "SM-G930V",
+      "NAME": "Josiah james",
+      "DOCTOR_NAME": "Hakan Demirci ",
+      "DEVICE": "heroqltevzw",
+      "DIAGNOSIS": "retinoblastoma ",
+      "API_LEVEL": "24",
+      "createdAt": "2017-09-18T16:56:58.889Z",
+      "updatedAt": "2017-11-06T14:02:35.273Z",
+      "FORWARD_GAZE": {
+        "__type": "File",
+        "name": "8b20b12e598cd5f598f2d4f26af38d26_FORWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/8b20b12e598cd5f598f2d4f26af38d26_FORWARD_GAZE"
+      }
+    },
+    {
+      "objectId": "7WNjEPtKVe",
+      "PRODUCT": "heroqltevzw",
+      "AGE": 11,
+      "SEX": "Male",
+      "MODEL": "SM-G930V",
+      "NAME": "Josiah james",
+      "DOCTOR_NAME": "Hakan Demirci ",
+      "DEVICE": "heroqltevzw",
+      "DIAGNOSIS": "retinoblastoma ",
+      "API_LEVEL": "24",
+      "createdAt": "2017-09-18T16:58:10.577Z",
+      "updatedAt": "2017-11-06T14:01:25.149Z",
+      "FORWARD_GAZE": {
+        "__type": "File",
+        "name": "cf37a1b062f96dd79cfbde319ffc26b0_FORWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/cf37a1b062f96dd79cfbde319ffc26b0_FORWARD_GAZE"
+      },
+      "UPWARD_GAZE": {
+        "__type": "File",
+        "name": "42c4769458d871416d576ab9e6c3ba69_UPWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/42c4769458d871416d576ab9e6c3ba69_UPWARD_GAZE"
+      },
+      "DOWNWARD_GAZE": {
+        "__type": "File",
+        "name": "9909c09afa38d8808cf9191cc651779d_DOWNWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/9909c09afa38d8808cf9191cc651779d_DOWNWARD_GAZE"
+      },
+      "LEFTWARD_GAZE": {
+        "__type": "File",
+        "name": "6ccd4ef9f4c0c274087f5b5a51d8fc0e_LEFTWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/6ccd4ef9f4c0c274087f5b5a51d8fc0e_LEFTWARD_GAZE"
+      },
+      "RIGHTWARD_GAZE": {
+        "__type": "File",
+        "name": "5b77aa747ca2c7b813bf4146969b4a4b_RIGHTWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/5b77aa747ca2c7b813bf4146969b4a4b_RIGHTWARD_GAZE"
+      }
+    },
+    {
+      "objectId": "ksWAHDnvVb",
+      "PRODUCT": "heroqltevzw",
+      "AGE": 11,
+      "SEX": "Male",
+      "MODEL": "SM-G930V",
+      "NAME": "Josiah jamrs5",
+      "DOCTOR_NAME": "Hakan Demirci ",
+      "DEVICE": "heroqltevzw",
+      "DIAGNOSIS": "retinoblastoma ",
+      "API_LEVEL": "24",
+      "createdAt": "2017-09-18T17:09:41.911Z",
+      "updatedAt": "2017-11-06T14:02:29.873Z",
+      "FORWARD_GAZE": {
+        "__type": "File",
+        "name": "e1fd13228f3cf4230323719257e21899_FORWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/e1fd13228f3cf4230323719257e21899_FORWARD_GAZE"
+      },
+      "UPWARD_GAZE": {
+        "__type": "File",
+        "name": "881df33695c370fa7a4ceb92d2f53eb9_UPWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/881df33695c370fa7a4ceb92d2f53eb9_UPWARD_GAZE"
+      },
+      "DOWNWARD_GAZE": {
+        "__type": "File",
+        "name": "000874b6e36d17b778c1f939726ccaca_DOWNWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/000874b6e36d17b778c1f939726ccaca_DOWNWARD_GAZE"
+      },
+      "LEFTWARD_GAZE": {
+        "__type": "File",
+        "name": "b9a84468dd238892e4fd340e985a56c2_LEFTWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/b9a84468dd238892e4fd340e985a56c2_LEFTWARD_GAZE"
+      },
+      "RIGHTWARD_GAZE": {
+        "__type": "File",
+        "name": "29f3f09aaf053f251c847f554da6ddca_RIGHTWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/29f3f09aaf053f251c847f554da6ddca_RIGHTWARD_GAZE"
+      }
+    },
+    {
+      "objectId": "88AEROjCIw",
+      "PRODUCT": "heroqltevzw",
+      "SEX": "Male",
+      "DOCTOR_NAME": "Hakan Demirci ",
+      "DEVICE": "heroqltevzw",
+      "API_LEVEL": "24",
+      "MODEL": "SM-G930V",
+      "createdAt": "2017-09-19T20:24:14.556Z",
+      "updatedAt": "2017-11-06T14:02:39.399Z"
+    },
+    {
+      "objectId": "NnRfYLxZuD",
+      "PRODUCT": "jfltespr",
+      "SEX": "Male",
+      "DOCTOR_NAME": "Hakan ",
+      "DEVICE": "jfltespr",
+      "API_LEVEL": "21",
+      "MODEL": "SPH-L720",
+      "createdAt": "2017-09-20T03:37:21.657Z",
+      "updatedAt": "2017-09-20T03:37:50.739Z",
+      "FORWARD_GAZE": {
+        "__type": "File",
+        "name": "042ade33d6dc6dba0ebcfa48de24f7e6_FORWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/042ade33d6dc6dba0ebcfa48de24f7e6_FORWARD_GAZE"
+      },
+      "UPWARD_GAZE": {
+        "__type": "File",
+        "name": "2e8ff606a6e86c05c3c1310aa7837008_UPWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/2e8ff606a6e86c05c3c1310aa7837008_UPWARD_GAZE"
+      }
+    },
+    {
+      "objectId": "gfimcCMque",
+      "PRODUCT": "jfltespr",
+      "NAME": "no",
+      "SEX": "Male",
+      "DOCTOR_NAME": "Hakan ",
+      "DEVICE": "jfltespr",
+      "API_LEVEL": "21",
+      "MODEL": "SPH-L720",
+      "createdAt": "2017-09-20T03:47:37.267Z",
+      "updatedAt": "2017-09-20T03:47:37.267Z"
+    },
+    {
+      "objectId": "pKBtyTGmml",
+      "PRODUCT": "DAV-703L",
+      "AGE": 11,
+      "SEX": "Male",
+      "MODEL": "HUAWEI P8max",
+      "NAME": "Xx",
+      "DOCTOR_NAME": "Elliot",
+      "DEVICE": "HWP8max",
+      "API_LEVEL": "23",
+      "createdAt": "2017-09-22T15:51:00.249Z",
+      "updatedAt": "2017-09-22T15:51:00.249Z"
+    },
+    {
+      "objectId": "e51JWvFF7a",
+      "DOCTOR_NAME": "Joshua Meyer",
+      "PRODUCT": "sailfish",
+      "SEX": "Female",
+      "DEVICE": "sailfish",
+      "MODEL": "Pixel",
+      "API_LEVEL": "26",
+      "NAME": "Linda Meyer",
+      "AGE": 59,
+      "createdAt": "2017-09-22T16:46:30.157Z",
+      "updatedAt": "2017-09-22T16:46:30.157Z"
+    },
+    {
+      "objectId": "NV2hJq98oj",
+      "PRODUCT": "heroqltevzw",
+      "SEX": "Male",
+      "DOCTOR_NAME": "Hakan Demirci ",
+      "DEVICE": "heroqltevzw",
+      "API_LEVEL": "24",
+      "MODEL": "SM-G930V",
+      "createdAt": "2017-09-22T21:41:33.721Z",
+      "updatedAt": "2017-11-06T14:01:16.776Z"
+    },
+    {
+      "objectId": "GQEPrM8JNN",
+      "PRODUCT": "heroqltevzw",
+      "SEX": "Male",
+      "DOCTOR_NAME": "Hakan Demirci ",
+      "DEVICE": "heroqltevzw",
+      "API_LEVEL": "24",
+      "MODEL": "SM-G930V",
+      "createdAt": "2017-09-22T21:48:19.183Z",
+      "updatedAt": "2017-11-06T13:59:44.710Z",
+      "FORWARD_GAZE": {
+        "__type": "File",
+        "name": "dd28e9c7e169823588382129edf140fc_FORWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/dd28e9c7e169823588382129edf140fc_FORWARD_GAZE"
+      },
+      "UPWARD_GAZE": {
+        "__type": "File",
+        "name": "4a4247377b44d21cda0a3fa392415c8d_UPWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/4a4247377b44d21cda0a3fa392415c8d_UPWARD_GAZE"
+      }
+    },
+    {
+      "objectId": "PvW6OA9kri",
+      "PRODUCT": "jfltespr",
+      "SEX": "Male",
+      "DOCTOR_NAME": "Hakan ",
+      "DEVICE": "jfltespr",
+      "API_LEVEL": "21",
+      "MODEL": "SPH-L720",
+      "createdAt": "2017-09-23T00:16:47.751Z",
+      "updatedAt": "2017-09-23T00:16:47.751Z"
+    },
+    {
+      "objectId": "RjGBWkaXDT",
+      "PRODUCT": "jfltespr",
+      "NAME": " ",
+      "SEX": "Male",
+      "DOCTOR_NAME": "Hakan ",
+      "DEVICE": "jfltespr",
+      "API_LEVEL": "21",
+      "MODEL": "SPH-L720",
+      "createdAt": "2017-09-23T00:48:49.221Z",
+      "updatedAt": "2017-09-23T00:48:49.221Z"
+    },
+    {
+      "objectId": "HfPk4b1E4s",
+      "PRODUCT": "S_plus",
+      "AGE": 1988,
+      "SEX": "Male",
+      "MODEL": "S_plus",
+      "NAME": "mansir",
+      "LEFT_EYE_REFRACTION": "yes",
+      "RIGHT_EYE_REFRACTION": "yes",
+      "DOCTOR_NAME": "mansir",
+      "ETHNICITY": "jos",
+      "DEVICE": "GiONEE_WBL7511",
+      "DIAGNOSIS": "snap",
+      "API_LEVEL": "22",
+      "createdAt": "2017-09-23T16:39:22.483Z",
+      "updatedAt": "2017-09-23T16:39:22.483Z"
+    },
+    {
+      "objectId": "KMTQLk8AAE",
+      "DEVICE": "xiaomi",
+      "API_LEVEL": "17",
+      "PRODUCT": "xiaomi",
+      "MODEL": "xiaomi-1s",
+      "DOCTOR_NAME": "18810541234",
+      "SEX": "Female",
+      "createdAt": "2017-09-23T19:32:44.026Z",
+      "updatedAt": "2017-09-23T19:32:44.026Z"
+    },
+    {
+      "objectId": "BpSQgYXovH",
+      "DEVICE": "xiaomi",
+      "API_LEVEL": "17",
+      "PRODUCT": "xiaomi",
+      "MODEL": "xiaomi-1s",
+      "DOCTOR_NAME": "18810541234",
+      "SEX": "Male",
+      "createdAt": "2017-09-23T19:34:56.890Z",
+      "updatedAt": "2017-09-23T19:36:26.204Z",
+      "FORWARD_GAZE": {
+        "__type": "File",
+        "name": "1f1168a926d1ff355590d422791f70b8_FORWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/1f1168a926d1ff355590d422791f70b8_FORWARD_GAZE"
+      }
+    },
+    {
+      "objectId": "mAotKpZKhk",
+      "DEVICE": "xiaomi",
+      "API_LEVEL": "17",
+      "PRODUCT": "xiaomi",
+      "MODEL": "xiaomi-1s",
+      "DOCTOR_NAME": "18810541234",
+      "SEX": "Female",
+      "createdAt": "2017-09-23T19:37:09.181Z",
+      "updatedAt": "2017-09-23T19:37:10.363Z"
+    },
+    {
+      "objectId": "mq7fJ1jlXp",
+      "PRODUCT": "heroqltevzw",
+      "SEX": "Male",
+      "DOCTOR_NAME": "Hakan Demirci ",
+      "DEVICE": "heroqltevzw",
+      "API_LEVEL": "24",
+      "MODEL": "SM-G930V",
+      "createdAt": "2017-09-27T16:45:47.433Z",
+      "updatedAt": "2017-11-06T14:02:16.885Z"
+    },
+    {
+      "objectId": "keobtCvOK4",
+      "LEFT_EYE_REFRACTION": "+3.25 +1.25 × 045",
+      "DOCTOR_NAME": "Hakan Demirci ",
+      "PRODUCT": "heroqltevzw",
+      "NAME": "Mary Irvin",
+      "updatedAt": "2017-11-06T13:59:37.685Z",
+      "DIAGNOSIS": "macular degeneration ",
+      "SEX": "Female",
+      "DOWNWARD_GAZE": {
+        "__type": "File",
+        "name": "3daa7e07766ba76fb89c93e98b9e3b86_DOWNWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/3daa7e07766ba76fb89c93e98b9e3b86_DOWNWARD_GAZE"
+      },
+      "MODEL": "SM-G930V",
+      "createdAt": "2017-09-27T17:32:08.926Z",
+      "RIGHTWARD_GAZE": {
+        "__type": "File",
+        "name": "44a2e8cdeab5f48f5e64ca86fe64d377_RIGHTWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/44a2e8cdeab5f48f5e64ca86fe64d377_RIGHTWARD_GAZE"
+      },
+      "AGE": 77,
+      "API_LEVEL": "24",
+      "FORWARD_GAZE": {
+        "__type": "File",
+        "name": "4213fe67da3d6c423bb41e64fb7c734a_FORWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/4213fe67da3d6c423bb41e64fb7c734a_FORWARD_GAZE"
+      },
+      "ETHNICITY": "White",
+      "DEVICE": "heroqltevzw",
+      "LEFTWARD_GAZE": {
+        "__type": "File",
+        "name": "fe6a5479eff1e056dde48cecf59fed82_LEFTWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/fe6a5479eff1e056dde48cecf59fed82_LEFTWARD_GAZE"
+      },
+      "RIGHT_EYE_REFRACTION": "+2.50 +1.50 × 148",
+      "UPWARD_GAZE": {
+        "__type": "File",
+        "name": "0c2eda9fffb33c83a9e30d2761238164_UPWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/0c2eda9fffb33c83a9e30d2761238164_UPWARD_GAZE"
+      }
+    },
+    {
+      "objectId": "xfOl55ksPE",
+      "DEVICE": "jfltevzw",
+      "MODEL": "SCH-I545",
+      "NAME": "sanon pierre paul",
+      "DOCTOR_NAME": "sanon",
+      "AGE": 25,
+      "SEX": "Male",
+      "API_LEVEL": "18",
+      "PRODUCT": "jfltevzw",
+      "createdAt": "2017-09-28T15:19:14.373Z",
+      "updatedAt": "2017-09-28T15:19:14.373Z"
+    },
+    {
+      "objectId": "EmjSXbf8GA",
+      "DEVICE": "mako",
+      "MODEL": "Nexus 4",
+      "NAME": "vwoijgwe213213",
+      "DOCTOR_NAME": "vwoijgwe213213",
+      "AGE": 2132314,
+      "SEX": "Male",
+      "API_LEVEL": "16",
+      "PRODUCT": "occam",
+      "ETHNICITY": "fvd324",
+      "createdAt": "2017-09-28T18:43:08.937Z",
+      "updatedAt": "2017-09-28T18:43:08.937Z"
+    },
+    {
+      "objectId": "Vqfadu8GOY",
+      "PRODUCT": "heroqltevzw",
+      "SEX": "Male",
+      "AGE": 42,
+      "MODEL": "SM-G930V",
+      "NAME": "Wayne Thomas",
+      "DOCTOR_NAME": "Hakan Demirci ",
+      "ETHNICITY": "African American",
+      "DEVICE": "heroqltevzw",
+      "DIAGNOSIS": "cataract",
+      "API_LEVEL": "24",
+      "createdAt": "2017-10-04T14:15:11.041Z",
+      "updatedAt": "2017-10-04T14:15:11.041Z"
+    },
+    {
+      "objectId": "DqNoYzFSL7",
+      "PRODUCT": "heroqltevzw",
+      "SEX": "Male",
+      "AGE": 42,
+      "MODEL": "SM-G930V",
+      "NAME": "Wayne Thomas",
+      "DOCTOR_NAME": "Hakan Demirci ",
+      "ETHNICITY": "African American",
+      "DEVICE": "heroqltevzw",
+      "DIAGNOSIS": "cataract",
+      "API_LEVEL": "24",
+      "createdAt": "2017-10-04T14:15:13.239Z",
+      "updatedAt": "2017-11-06T14:01:36.815Z",
+      "FORWARD_GAZE": {
+        "__type": "File",
+        "name": "745d9416e4befb85461d824434b6168c_FORWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/745d9416e4befb85461d824434b6168c_FORWARD_GAZE"
+      },
+      "UPWARD_GAZE": {
+        "__type": "File",
+        "name": "5cc2c68bff69ba165ff28bec2ada24f5_UPWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/5cc2c68bff69ba165ff28bec2ada24f5_UPWARD_GAZE"
+      },
+      "DOWNWARD_GAZE": {
+        "__type": "File",
+        "name": "2f85c02185111fae4b116b3892f59016_DOWNWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/2f85c02185111fae4b116b3892f59016_DOWNWARD_GAZE"
+      },
+      "LEFTWARD_GAZE": {
+        "__type": "File",
+        "name": "8e44ad3cd0854c8cf6a8575aae264893_LEFTWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/8e44ad3cd0854c8cf6a8575aae264893_LEFTWARD_GAZE"
+      },
+      "RIGHTWARD_GAZE": {
+        "__type": "File",
+        "name": "e6e853c9d83560ce7524477d06fb334e_RIGHTWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/e6e853c9d83560ce7524477d06fb334e_RIGHTWARD_GAZE"
+      }
+    },
+    {
+      "objectId": "hEDcFpWXYa",
+      "PRODUCT": "heroqltevzw",
+      "SEX": "Female",
+      "AGE": 39,
+      "MODEL": "SM-G930V",
+      "NAME": "Shannon Wedl",
+      "DOCTOR_NAME": "Hakan Demirci ",
+      "ETHNICITY": "white/Caucasian ",
+      "DEVICE": "heroqltevzw",
+      "DIAGNOSIS": "choroidal nevus",
+      "API_LEVEL": "24",
+      "createdAt": "2017-10-04T15:28:08.449Z",
+      "updatedAt": "2017-11-06T14:02:43.555Z",
+      "UPWARD_GAZE": {
+        "__type": "File",
+        "name": "ada23107b3dc8638d2cb775aa463f636_UPWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/ada23107b3dc8638d2cb775aa463f636_UPWARD_GAZE"
+      },
+      "DOWNWARD_GAZE": {
+        "__type": "File",
+        "name": "27c056aae084a1fb20c174b5f9beefd1_DOWNWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/27c056aae084a1fb20c174b5f9beefd1_DOWNWARD_GAZE"
+      },
+      "LEFTWARD_GAZE": {
+        "__type": "File",
+        "name": "c3e72b23fc271603fcaae2e07af8599c_LEFTWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/c3e72b23fc271603fcaae2e07af8599c_LEFTWARD_GAZE"
+      },
+      "FORWARD_GAZE": {
+        "__type": "File",
+        "name": "3fa05c74faa736121f79e13966927c9f_FORWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/3fa05c74faa736121f79e13966927c9f_FORWARD_GAZE"
+      },
+      "RIGHTWARD_GAZE": {
+        "__type": "File",
+        "name": "90de07cdff9c542e033a663160b86258_RIGHTWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/90de07cdff9c542e033a663160b86258_RIGHTWARD_GAZE"
+      }
+    },
+    {
+      "objectId": "Kk7MwDoAOl",
+      "PRODUCT": "heroqltevzw",
+      "SEX": "Male",
+      "AGE": 73,
+      "MODEL": "SM-G930V",
+      "NAME": "David Adcock",
+      "DOCTOR_NAME": "Hakan Demirci ",
+      "ETHNICITY": "White/Caucasian ",
+      "DEVICE": "heroqltevzw",
+      "DIAGNOSIS": "choroidal nevus",
+      "API_LEVEL": "24",
+      "createdAt": "2017-10-04T18:05:08.226Z",
+      "updatedAt": "2017-10-04T18:05:08.226Z"
+    },
+    {
+      "objectId": "vHMvaXJnDx",
+      "PRODUCT": "heroqltevzw",
+      "SEX": "Male",
+      "AGE": 73,
+      "MODEL": "SM-G930V",
+      "NAME": "David Adcock",
+      "DOCTOR_NAME": "Hakan Demirci ",
+      "ETHNICITY": "White/Caucasian ",
+      "DEVICE": "heroqltevzw",
+      "DIAGNOSIS": "choroidal nevus",
+      "API_LEVEL": "24",
+      "createdAt": "2017-10-04T18:05:10.084Z",
+      "updatedAt": "2017-10-04T18:06:06.868Z",
+      "FORWARD_GAZE": {
+        "__type": "File",
+        "name": "4a0e76cbb850358a451c2538a2d08577_FORWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/4a0e76cbb850358a451c2538a2d08577_FORWARD_GAZE"
+      },
+      "UPWARD_GAZE": {
+        "__type": "File",
+        "name": "66b114ea62ac3981a7baea7a02e4cbbf_UPWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/66b114ea62ac3981a7baea7a02e4cbbf_UPWARD_GAZE"
+      },
+      "DOWNWARD_GAZE": {
+        "__type": "File",
+        "name": "bddbfc40c71870cd62755b880a1c3899_DOWNWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/bddbfc40c71870cd62755b880a1c3899_DOWNWARD_GAZE"
+      },
+      "LEFTWARD_GAZE": {
+        "__type": "File",
+        "name": "944898129f868a2a0cac79244933367a_LEFTWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/944898129f868a2a0cac79244933367a_LEFTWARD_GAZE"
+      },
+      "RIGHTWARD_GAZE": {
+        "__type": "File",
+        "name": "3ed03fdfe25ec33e7bc32f17b3447321_RIGHTWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/3ed03fdfe25ec33e7bc32f17b3447321_RIGHTWARD_GAZE"
+      }
+    },
+    {
+      "objectId": "giqiWKkF4D",
+      "LEFT_EYE_REFRACTION": "-0.75 +0.75 164 +3.25",
+      "DOCTOR_NAME": "Hakan Demirci ",
+      "PRODUCT": "heroqltevzw",
+      "NAME": "Roy Rowlands",
+      "updatedAt": "2017-11-06T14:02:28.018Z",
+      "DIAGNOSIS": "macular degeneration ",
+      "SEX": "Male",
+      "DOWNWARD_GAZE": {
+        "__type": "File",
+        "name": "00219b46302a9dd7aaeddf32bc16d1cb_DOWNWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/00219b46302a9dd7aaeddf32bc16d1cb_DOWNWARD_GAZE"
+      },
+      "MODEL": "SM-G930V",
+      "createdAt": "2017-10-04T19:29:11.468Z",
+      "RIGHTWARD_GAZE": {
+        "__type": "File",
+        "name": "3e2026616e616622c3b11208d987b25c_RIGHTWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/3e2026616e616622c3b11208d987b25c_RIGHTWARD_GAZE"
+      },
+      "AGE": 93,
+      "API_LEVEL": "24",
+      "FORWARD_GAZE": {
+        "__type": "File",
+        "name": "62d2ab4394cddd43e2d8d1c3a5ba0908_FORWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/62d2ab4394cddd43e2d8d1c3a5ba0908_FORWARD_GAZE"
+      },
+      "ETHNICITY": "White/Caucasian ",
+      "DEVICE": "heroqltevzw",
+      "LEFTWARD_GAZE": {
+        "__type": "File",
+        "name": "f81d777664feeb62fe8361011d689da3_LEFTWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/f81d777664feeb62fe8361011d689da3_LEFTWARD_GAZE"
+      },
+      "RIGHT_EYE_REFRACTION": "-1.00 +1.00 062 +3.25",
+      "UPWARD_GAZE": {
+        "__type": "File",
+        "name": "b07981f206c4e13d71bdd9ff4edc9903_UPWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/b07981f206c4e13d71bdd9ff4edc9903_UPWARD_GAZE"
+      }
+    },
+    {
+      "objectId": "go4cotMrhl",
+      "PRODUCT": "heroqltevzw",
+      "SEX": "Female",
+      "AGE": 4,
+      "MODEL": "SM-G930V",
+      "NAME": "Schmidt marley",
+      "DOCTOR_NAME": "Hakan Demirci ",
+      "ETHNICITY": "Caucasian ",
+      "DEVICE": "heroqltevzw",
+      "DIAGNOSIS": "enucleated",
+      "API_LEVEL": "24",
+      "createdAt": "2017-10-10T11:41:01.408Z",
+      "updatedAt": "2017-11-06T14:02:41.834Z",
+      "FORWARD_GAZE": {
+        "__type": "File",
+        "name": "fb96f50b448f36eb606a64047ae123ce_FORWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/fb96f50b448f36eb606a64047ae123ce_FORWARD_GAZE"
+      },
+      "UPWARD_GAZE": {
+        "__type": "File",
+        "name": "9f5d89bbc7370cf78a73cf6bcdd7a734_UPWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/9f5d89bbc7370cf78a73cf6bcdd7a734_UPWARD_GAZE"
+      },
+      "DOWNWARD_GAZE": {
+        "__type": "File",
+        "name": "0bb3ee7eb76215154036e6efa805a7e5_DOWNWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/0bb3ee7eb76215154036e6efa805a7e5_DOWNWARD_GAZE"
+      },
+      "LEFTWARD_GAZE": {
+        "__type": "File",
+        "name": "151377945c83e304a31e2e46c667f329_LEFTWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/151377945c83e304a31e2e46c667f329_LEFTWARD_GAZE"
+      },
+      "RIGHTWARD_GAZE": {
+        "__type": "File",
+        "name": "fef95aa2ac0513d2544c453aef51a9be_RIGHTWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/fef95aa2ac0513d2544c453aef51a9be_RIGHTWARD_GAZE"
+      }
+    },
+    {
+      "objectId": "49LMOcSoxS",
+      "PRODUCT": "heroqltevzw",
+      "SEX": "Female",
+      "AGE": 4,
+      "MODEL": "SM-G930V",
+      "NAME": "Brooklyn grills",
+      "DOCTOR_NAME": "Hakan Demirci ",
+      "ETHNICITY": "Caucasian ",
+      "DEVICE": "heroqltevzw",
+      "DIAGNOSIS": "retinoblastoma",
+      "API_LEVEL": "24",
+      "createdAt": "2017-10-10T13:12:18.005Z",
+      "updatedAt": "2017-11-06T14:02:36.667Z",
+      "FORWARD_GAZE": {
+        "__type": "File",
+        "name": "b95b1a0ac0f241448d6717b9e7ed6cb4_FORWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/b95b1a0ac0f241448d6717b9e7ed6cb4_FORWARD_GAZE"
+      },
+      "UPWARD_GAZE": {
+        "__type": "File",
+        "name": "f8f11e23d045e657f6e1aa5a4842f422_UPWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/f8f11e23d045e657f6e1aa5a4842f422_UPWARD_GAZE"
+      },
+      "DOWNWARD_GAZE": {
+        "__type": "File",
+        "name": "ed8c970e7a9afc89183bc0a0e1ec3c93_DOWNWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/ed8c970e7a9afc89183bc0a0e1ec3c93_DOWNWARD_GAZE"
+      },
+      "LEFTWARD_GAZE": {
+        "__type": "File",
+        "name": "6696aa065ebc1ebd8201c4e3e5258f81_LEFTWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/6696aa065ebc1ebd8201c4e3e5258f81_LEFTWARD_GAZE"
+      },
+      "RIGHTWARD_GAZE": {
+        "__type": "File",
+        "name": "a41ce37f0848f1063cd3823cc4276332_RIGHTWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/a41ce37f0848f1063cd3823cc4276332_RIGHTWARD_GAZE"
+      }
+    },
+    {
+      "objectId": "xKxPptuCg2",
+      "PRODUCT": "heroqltevzw",
+      "SEX": "Female",
+      "AGE": 2,
+      "MODEL": "SM-G930V",
+      "NAME": "Sadie marinaro",
+      "DOCTOR_NAME": "Hakan Demirci ",
+      "ETHNICITY": "Caucasian ",
+      "DEVICE": "heroqltevzw",
+      "DIAGNOSIS": "retinoblastoma ",
+      "API_LEVEL": "24",
+      "createdAt": "2017-10-10T13:56:00.823Z",
+      "updatedAt": "2017-11-06T14:02:21.598Z",
+      "FORWARD_GAZE": {
+        "__type": "File",
+        "name": "56d5fefd294f6e75d3fb3d802d1ba753_FORWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/56d5fefd294f6e75d3fb3d802d1ba753_FORWARD_GAZE"
+      },
+      "UPWARD_GAZE": {
+        "__type": "File",
+        "name": "d419970b95e3fecb6ffb9de7955517ea_UPWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/d419970b95e3fecb6ffb9de7955517ea_UPWARD_GAZE"
+      },
+      "DOWNWARD_GAZE": {
+        "__type": "File",
+        "name": "713acd05c1f194da4b4d058150f7f6d5_DOWNWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/713acd05c1f194da4b4d058150f7f6d5_DOWNWARD_GAZE"
+      },
+      "LEFTWARD_GAZE": {
+        "__type": "File",
+        "name": "5cd7b516c7b909d4c987b9b98d315b1b_LEFTWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/5cd7b516c7b909d4c987b9b98d315b1b_LEFTWARD_GAZE"
+      },
+      "RIGHTWARD_GAZE": {
+        "__type": "File",
+        "name": "c0003950521c65fcd45ba1220ee64754_RIGHTWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/c0003950521c65fcd45ba1220ee64754_RIGHTWARD_GAZE"
+      }
+    },
+    {
+      "objectId": "PEr3AzBgF0",
+      "PRODUCT": "heroqltevzw",
+      "SEX": "Female",
+      "AGE": 2,
+      "MODEL": "SM-G930V",
+      "NAME": "Abigail ketcham",
+      "DOCTOR_NAME": "Hakan Demirci ",
+      "ETHNICITY": "caucasian",
+      "DEVICE": "heroqltevzw",
+      "DIAGNOSIS": "retinoblastoma",
+      "API_LEVEL": "24",
+      "createdAt": "2017-10-10T17:30:43.292Z",
+      "updatedAt": "2017-11-06T14:02:40.136Z",
+      "FORWARD_GAZE": {
+        "__type": "File",
+        "name": "53acfbed6d68bcf51584f989dbde2e71_FORWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/53acfbed6d68bcf51584f989dbde2e71_FORWARD_GAZE"
+      },
+      "UPWARD_GAZE": {
+        "__type": "File",
+        "name": "c0b1ef33003c8e175df0548dccfac05a_UPWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/c0b1ef33003c8e175df0548dccfac05a_UPWARD_GAZE"
+      },
+      "DOWNWARD_GAZE": {
+        "__type": "File",
+        "name": "59bae5aa3205655482eadab23909029f_DOWNWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/59bae5aa3205655482eadab23909029f_DOWNWARD_GAZE"
+      },
+      "LEFTWARD_GAZE": {
+        "__type": "File",
+        "name": "2627d18d6875a61c95cf7c206b553c39_LEFTWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/2627d18d6875a61c95cf7c206b553c39_LEFTWARD_GAZE"
+      },
+      "RIGHTWARD_GAZE": {
+        "__type": "File",
+        "name": "cb6c08cedacc4ddfc5e384cab23e61e7_RIGHTWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/cb6c08cedacc4ddfc5e384cab23e61e7_RIGHTWARD_GAZE"
+      }
+    },
+    {
+      "objectId": "DrtvF2BDPK",
+      "PRODUCT": "heroqltevzw",
+      "SEX": "Male",
+      "AGE": 4,
+      "MODEL": "SM-G930V",
+      "NAME": "Malcolm fiamder",
+      "DOCTOR_NAME": "Hakan Demirci ",
+      "ETHNICITY": "Caucasian ",
+      "DEVICE": "heroqltevzw",
+      "DIAGNOSIS": "normal",
+      "API_LEVEL": "24",
+      "createdAt": "2017-10-10T19:45:35.432Z",
+      "updatedAt": "2017-11-06T14:02:26.793Z",
+      "FORWARD_GAZE": {
+        "__type": "File",
+        "name": "430cb972735984d94cb007fcf739c733_FORWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/430cb972735984d94cb007fcf739c733_FORWARD_GAZE"
+      },
+      "UPWARD_GAZE": {
+        "__type": "File",
+        "name": "5706e0347c50173bc25e093e5a216276_UPWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/5706e0347c50173bc25e093e5a216276_UPWARD_GAZE"
+      },
+      "DOWNWARD_GAZE": {
+        "__type": "File",
+        "name": "cc8679f031861853b8b42285ccd6c925_DOWNWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/cc8679f031861853b8b42285ccd6c925_DOWNWARD_GAZE"
+      },
+      "LEFTWARD_GAZE": {
+        "__type": "File",
+        "name": "245a8ba32b466ae15b8fa2b75a01868d_LEFTWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/245a8ba32b466ae15b8fa2b75a01868d_LEFTWARD_GAZE"
+      },
+      "RIGHTWARD_GAZE": {
+        "__type": "File",
+        "name": "6f41b12deeb5a89c0aac2f780a7a3a88_RIGHTWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/6f41b12deeb5a89c0aac2f780a7a3a88_RIGHTWARD_GAZE"
+      }
+    },
+    {
+      "objectId": "FPB3jbjJSz",
+      "PRODUCT": "heroqltevzw",
+      "SEX": "Male",
+      "AGE": 5,
+      "MODEL": "SM-G930V",
+      "NAME": "jayce stevens",
+      "DOCTOR_NAME": "Hakan Demirci ",
+      "ETHNICITY": "African American ",
+      "DEVICE": "heroqltevzw",
+      "DIAGNOSIS": "cataract",
+      "API_LEVEL": "24",
+      "createdAt": "2017-10-10T20:47:42.471Z",
+      "updatedAt": "2017-11-06T14:01:58.371Z",
+      "FORWARD_GAZE": {
+        "__type": "File",
+        "name": "3235a1f922d84e91e854cb8d708174a8_FORWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/3235a1f922d84e91e854cb8d708174a8_FORWARD_GAZE"
+      },
+      "UPWARD_GAZE": {
+        "__type": "File",
+        "name": "e8fbd319df8e556d545cfcea250f6761_UPWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/e8fbd319df8e556d545cfcea250f6761_UPWARD_GAZE"
+      },
+      "DOWNWARD_GAZE": {
+        "__type": "File",
+        "name": "c3eabfc097c442726da8642e5a66316c_DOWNWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/c3eabfc097c442726da8642e5a66316c_DOWNWARD_GAZE"
+      },
+      "LEFTWARD_GAZE": {
+        "__type": "File",
+        "name": "72e3f76caa8627e23ae1bf844bc7e431_LEFTWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/72e3f76caa8627e23ae1bf844bc7e431_LEFTWARD_GAZE"
+      },
+      "RIGHTWARD_GAZE": {
+        "__type": "File",
+        "name": "2e5cda0876c0edd801dc50a8e8d251de_RIGHTWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/2e5cda0876c0edd801dc50a8e8d251de_RIGHTWARD_GAZE"
+      }
+    },
+    {
+      "objectId": "lQz9AApy5l",
+      "PRODUCT": "heroqltevzw",
+      "SEX": "Female",
+      "AGE": 60,
+      "MODEL": "SM-G930V",
+      "NAME": "Elizabeth Huber",
+      "DOCTOR_NAME": "Hakan Demirci ",
+      "ETHNICITY": "White/Caucasian",
+      "DEVICE": "heroqltevzw",
+      "DIAGNOSIS": "choroidal melanoma",
+      "API_LEVEL": "24",
+      "createdAt": "2017-10-11T14:14:40.941Z",
+      "updatedAt": "2017-11-06T14:02:13.971Z",
+      "FORWARD_GAZE": {
+        "__type": "File",
+        "name": "0f29f136739524c711366aac8243991d_FORWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/0f29f136739524c711366aac8243991d_FORWARD_GAZE"
+      },
+      "UPWARD_GAZE": {
+        "__type": "File",
+        "name": "d2f9e2daaaccd5a4c12e68c16a12c701_UPWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/d2f9e2daaaccd5a4c12e68c16a12c701_UPWARD_GAZE"
+      },
+      "DOWNWARD_GAZE": {
+        "__type": "File",
+        "name": "3e689cf5cf7c4e4a5f72218a0f248635_DOWNWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/3e689cf5cf7c4e4a5f72218a0f248635_DOWNWARD_GAZE"
+      },
+      "LEFTWARD_GAZE": {
+        "__type": "File",
+        "name": "177425a2f39c405bb7eec7a096dafd34_LEFTWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/177425a2f39c405bb7eec7a096dafd34_LEFTWARD_GAZE"
+      },
+      "RIGHTWARD_GAZE": {
+        "__type": "File",
+        "name": "39258dbe1d2823731ec78733a66ae3d1_RIGHTWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/39258dbe1d2823731ec78733a66ae3d1_RIGHTWARD_GAZE"
+      }
+    },
+    {
+      "objectId": "rDuJiHsx3J",
+      "PRODUCT": "heroqltevzw",
+      "SEX": "Male",
+      "AGE": 46,
+      "MODEL": "SM-G930V",
+      "NAME": "Alexander Simpson",
+      "DOCTOR_NAME": "Hakan Demirci ",
+      "ETHNICITY": "White/Caucasian",
+      "DEVICE": "heroqltevzw",
+      "DIAGNOSIS": "choroidal melanoma ",
+      "API_LEVEL": "24",
+      "createdAt": "2017-10-11T15:49:48.682Z",
+      "updatedAt": "2017-11-06T14:02:09.623Z",
+      "FORWARD_GAZE": {
+        "__type": "File",
+        "name": "18f838f1cc73a7f852d58aab50588565_FORWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/18f838f1cc73a7f852d58aab50588565_FORWARD_GAZE"
+      },
+      "UPWARD_GAZE": {
+        "__type": "File",
+        "name": "bbc43272357233d34fa7e693373965bb_UPWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/bbc43272357233d34fa7e693373965bb_UPWARD_GAZE"
+      },
+      "DOWNWARD_GAZE": {
+        "__type": "File",
+        "name": "785fe9e1d555b0d4ba906757fe0bc26e_DOWNWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/785fe9e1d555b0d4ba906757fe0bc26e_DOWNWARD_GAZE"
+      },
+      "LEFTWARD_GAZE": {
+        "__type": "File",
+        "name": "383765cf57c661ad2e490139aa936be3_LEFTWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/383765cf57c661ad2e490139aa936be3_LEFTWARD_GAZE"
+      },
+      "RIGHTWARD_GAZE": {
+        "__type": "File",
+        "name": "afdd9064dacc0689aacd07504c8699ee_RIGHTWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/afdd9064dacc0689aacd07504c8699ee_RIGHTWARD_GAZE"
+      }
+    },
+    {
+      "objectId": "8Rh9XkOPBf",
+      "LEFT_EYE_REFRACTION": "balanced ",
+      "DOCTOR_NAME": "Hakan Demirci ",
+      "PRODUCT": "heroqltevzw",
+      "NAME": "Edna Barlow",
+      "updatedAt": "2017-11-06T14:02:05.633Z",
+      "DIAGNOSIS": "choroidal melanoma ",
+      "SEX": "Female",
+      "DOWNWARD_GAZE": {
+        "__type": "File",
+        "name": "f21e3ebd5c4f26036df28e54cc8ecf0b_DOWNWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/f21e3ebd5c4f26036df28e54cc8ecf0b_DOWNWARD_GAZE"
+      },
+      "MODEL": "SM-G930V",
+      "createdAt": "2017-10-11T18:59:06.556Z",
+      "RIGHTWARD_GAZE": {
+        "__type": "File",
+        "name": "eab8448920a90682d72bd8d69c79ac08_RIGHTWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/eab8448920a90682d72bd8d69c79ac08_RIGHTWARD_GAZE"
+      },
+      "AGE": 57,
+      "API_LEVEL": "24",
+      "FORWARD_GAZE": {
+        "__type": "File",
+        "name": "8e1897d786129610b9a0701ce667199f_FORWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/8e1897d786129610b9a0701ce667199f_FORWARD_GAZE"
+      },
+      "ETHNICITY": "White/Caucasian ",
+      "DEVICE": "heroqltevzw",
+      "LEFTWARD_GAZE": {
+        "__type": "File",
+        "name": "f138a19aec278d6985f8f67b1efc92e4_LEFTWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/f138a19aec278d6985f8f67b1efc92e4_LEFTWARD_GAZE"
+      },
+      "RIGHT_EYE_REFRACTION": "+1.75 +0.25 140 +2.50",
+      "UPWARD_GAZE": {
+        "__type": "File",
+        "name": "ac3d07cf57f925e14ec4388602bf6123_UPWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/ac3d07cf57f925e14ec4388602bf6123_UPWARD_GAZE"
+      }
+    },
+    {
+      "objectId": "aguDbcLbjG",
+      "LEFT_EYE_REFRACTION": "+0.25 +0.75 x 125",
+      "DOCTOR_NAME": "Pedro Carricondo",
+      "PRODUCT": "nicklaus_f",
+      "NAME": "Joao Pedro",
+      "updatedAt": "2017-10-14T22:38:50.895Z",
+      "DIAGNOSIS": "Astigmatism",
+      "SEX": "Male",
+      "DOWNWARD_GAZE": {
+        "__type": "File",
+        "name": "2e3984495de34f35f13c7b045d93cc0c_DOWNWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/2e3984495de34f35f13c7b045d93cc0c_DOWNWARD_GAZE"
+      },
+      "MODEL": "Moto E (4) Plus",
+      "createdAt": "2017-10-14T22:36:22.585Z",
+      "RIGHTWARD_GAZE": {
+        "__type": "File",
+        "name": "930b684c68247016c57440dceca471db_RIGHTWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/930b684c68247016c57440dceca471db_RIGHTWARD_GAZE"
+      },
+      "AGE": 7,
+      "API_LEVEL": "25",
+      "FORWARD_GAZE": {
+        "__type": "File",
+        "name": "87a59cda7609e1328e7655c2e07c5217_FORWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/87a59cda7609e1328e7655c2e07c5217_FORWARD_GAZE"
+      },
+      "ETHNICITY": "White",
+      "DEVICE": "nicklaus_f",
+      "LEFTWARD_GAZE": {
+        "__type": "File",
+        "name": "94acb9e5b5f9ab5bd8fa6992792cec47_LEFTWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/94acb9e5b5f9ab5bd8fa6992792cec47_LEFTWARD_GAZE"
+      },
+      "RIGHT_EYE_REFRACTION": "0.00",
+      "UPWARD_GAZE": {
+        "__type": "File",
+        "name": "e720fd092afefa660ae347e5762a93fa_UPWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/e720fd092afefa660ae347e5762a93fa_UPWARD_GAZE"
+      }
+    },
+    {
+      "objectId": "f96t2inK0E",
+      "PRODUCT": "zeroltedv",
+      "SEX": "Male",
+      "DOCTOR_NAME": "Lísia Aoki",
+      "DEVICE": "zerolte",
+      "API_LEVEL": "24",
+      "MODEL": "SM-G925I",
+      "createdAt": "2017-10-14T22:46:48.514Z",
+      "updatedAt": "2017-11-07T17:27:48.771Z"
+    },
+    {
+      "objectId": "YWI5hsas8Z",
+      "LEFT_EYE_REFRACTION": "+2.00*90",
+      "DOCTOR_NAME": "Zeynep gursel ozkurt ",
+      "PRODUCT": "j2ltejv",
+      "NAME": "Osman Enes ozkurt",
+      "updatedAt": "2017-11-14T11:45:33.564Z",
+      "DIAGNOSIS": "astigmatism",
+      "SEX": "Male",
+      "DOWNWARD_GAZE": {
+        "__type": "File",
+        "name": "e787a332005e3121a49e8e62b843a1df_DOWNWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/e787a332005e3121a49e8e62b843a1df_DOWNWARD_GAZE"
+      },
+      "MODEL": "SM-J200F",
+      "createdAt": "2017-10-15T17:08:50.257Z",
+      "RIGHTWARD_GAZE": {
+        "__type": "File",
+        "name": "73b33f54da6fff9ad15962a3bef45851_RIGHTWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/73b33f54da6fff9ad15962a3bef45851_RIGHTWARD_GAZE"
+      },
+      "AGE": 6,
+      "API_LEVEL": "22",
+      "FORWARD_GAZE": {
+        "__type": "File",
+        "name": "f7b0a8589a829da4b0a0cf83b32020b1_FORWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/f7b0a8589a829da4b0a0cf83b32020b1_FORWARD_GAZE"
+      },
+      "ETHNICITY": "turkish",
+      "DEVICE": "j2lte",
+      "LEFTWARD_GAZE": {
+        "__type": "File",
+        "name": "682c6c8d1c872a44eabbcdf8cbeafc96_LEFTWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/682c6c8d1c872a44eabbcdf8cbeafc96_LEFTWARD_GAZE"
+      },
+      "RIGHT_EYE_REFRACTION": "+0.50*90",
+      "UPWARD_GAZE": {
+        "__type": "File",
+        "name": "e97f1af08a4eab2fe76f1ca6390faeb9_UPWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/e97f1af08a4eab2fe76f1ca6390faeb9_UPWARD_GAZE"
+      }
+    },
+    {
+      "objectId": "qoxdoaxPfo",
+      "LEFT_EYE_REFRACTION": "0",
+      "DOCTOR_NAME": "Zeynep gursel ozkurt ",
+      "PRODUCT": "j2ltejv",
+      "NAME": "Zeynep ahter ozkury",
+      "updatedAt": "2017-11-14T11:45:34.652Z",
+      "DIAGNOSIS": "no illness",
+      "SEX": "Female",
+      "DOWNWARD_GAZE": {
+        "__type": "File",
+        "name": "ce9bc1bed2721c04da9a7427d5326296_DOWNWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/ce9bc1bed2721c04da9a7427d5326296_DOWNWARD_GAZE"
+      },
+      "MODEL": "SM-J200F",
+      "createdAt": "2017-10-15T17:10:59.629Z",
+      "RIGHTWARD_GAZE": {
+        "__type": "File",
+        "name": "3b70196c848dcd4f1594246f1080e7c6_RIGHTWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/3b70196c848dcd4f1594246f1080e7c6_RIGHTWARD_GAZE"
+      },
+      "AGE": 9,
+      "API_LEVEL": "22",
+      "FORWARD_GAZE": {
+        "__type": "File",
+        "name": "5d04f10242c45cf3d29212da983bdb21_FORWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/5d04f10242c45cf3d29212da983bdb21_FORWARD_GAZE"
+      },
+      "ETHNICITY": "turkish",
+      "DEVICE": "j2lte",
+      "LEFTWARD_GAZE": {
+        "__type": "File",
+        "name": "e8996f938165ed3006a5a6ebac014f07_LEFTWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/e8996f938165ed3006a5a6ebac014f07_LEFTWARD_GAZE"
+      },
+      "RIGHT_EYE_REFRACTION": "0",
+      "UPWARD_GAZE": {
+        "__type": "File",
+        "name": "976edfc401ee35160be294bef4410ae0_UPWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/976edfc401ee35160be294bef4410ae0_UPWARD_GAZE"
+      }
+    },
+    {
+      "objectId": "x9VHoBB5CA",
+      "LEFT_EYE_REFRACTION": "0",
+      "DOCTOR_NAME": "Zeynep gursel ozkurt ",
+      "PRODUCT": "j2ltejv",
+      "NAME": "mecit yakisir",
+      "updatedAt": "2017-11-14T11:45:35.844Z",
+      "DIAGNOSIS": "healthy",
+      "SEX": "Male",
+      "DOWNWARD_GAZE": {
+        "__type": "File",
+        "name": "922a566bf8d1e845723f96258e7346bb_DOWNWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/922a566bf8d1e845723f96258e7346bb_DOWNWARD_GAZE"
+      },
+      "MODEL": "SM-J200F",
+      "createdAt": "2017-10-20T06:45:03.358Z",
+      "RIGHTWARD_GAZE": {
+        "__type": "File",
+        "name": "cb5e0789d19dd24e16712c3f1bce2004_RIGHTWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/cb5e0789d19dd24e16712c3f1bce2004_RIGHTWARD_GAZE"
+      },
+      "AGE": 29,
+      "API_LEVEL": "22",
+      "FORWARD_GAZE": {
+        "__type": "File",
+        "name": "f6dbcf99c941cb18af69238ffa4882d9_FORWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/f6dbcf99c941cb18af69238ffa4882d9_FORWARD_GAZE"
+      },
+      "ETHNICITY": "turkish",
+      "DEVICE": "j2lte",
+      "LEFTWARD_GAZE": {
+        "__type": "File",
+        "name": "36d1eb2049c889acd14efd63cd099ce0_LEFTWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/36d1eb2049c889acd14efd63cd099ce0_LEFTWARD_GAZE"
+      },
+      "RIGHT_EYE_REFRACTION": "0",
+      "UPWARD_GAZE": {
+        "__type": "File",
+        "name": "efd4a946c250b7ae9732718476c30e41_UPWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/efd4a946c250b7ae9732718476c30e41_UPWARD_GAZE"
+      }
+    },
+    {
+      "objectId": "7rYR935R79",
+      "LEFT_EYE_REFRACTION": "0",
+      "DOCTOR_NAME": "Zeynep gursel ozkurt ",
+      "PRODUCT": "j2ltejv",
+      "NAME": "Sinan camci",
+      "updatedAt": "2017-11-14T11:45:36.771Z",
+      "DIAGNOSIS": "healthy",
+      "SEX": "Male",
+      "DOWNWARD_GAZE": {
+        "__type": "File",
+        "name": "31e8c4032a6ef8e2f86f202e596b476b_DOWNWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/31e8c4032a6ef8e2f86f202e596b476b_DOWNWARD_GAZE"
+      },
+      "MODEL": "SM-J200F",
+      "createdAt": "2017-10-20T06:46:37.382Z",
+      "RIGHTWARD_GAZE": {
+        "__type": "File",
+        "name": "0b4eda38e06fbfbf642f32688e6b2072_RIGHTWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/0b4eda38e06fbfbf642f32688e6b2072_RIGHTWARD_GAZE"
+      },
+      "AGE": 34,
+      "API_LEVEL": "22",
+      "FORWARD_GAZE": {
+        "__type": "File",
+        "name": "b73f19ccd7a8b07c7bf583968811b601_FORWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/b73f19ccd7a8b07c7bf583968811b601_FORWARD_GAZE"
+      },
+      "ETHNICITY": "kurdish",
+      "DEVICE": "j2lte",
+      "LEFTWARD_GAZE": {
+        "__type": "File",
+        "name": "162c39c8bc3505c22111bd8e6e1232f4_LEFTWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/162c39c8bc3505c22111bd8e6e1232f4_LEFTWARD_GAZE"
+      },
+      "RIGHT_EYE_REFRACTION": "0",
+      "UPWARD_GAZE": {
+        "__type": "File",
+        "name": "d2736915a4dafbccf9dac6ce1d1a440d_UPWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/d2736915a4dafbccf9dac6ce1d1a440d_UPWARD_GAZE"
+      }
+    },
+    {
+      "objectId": "tSbBFS7zQA",
+      "LEFT_EYE_REFRACTION": "0",
+      "DOCTOR_NAME": "Zeynep gursel ozkurt ",
+      "PRODUCT": "j2ltejv",
+      "NAME": "dilek cakmak",
+      "updatedAt": "2017-11-14T11:45:37.771Z",
+      "DIAGNOSIS": "healthy",
+      "SEX": "Male",
+      "DOWNWARD_GAZE": {
+        "__type": "File",
+        "name": "bf9abe468d8405ec297d6778120b6877_DOWNWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/bf9abe468d8405ec297d6778120b6877_DOWNWARD_GAZE"
+      },
+      "MODEL": "SM-J200F",
+      "createdAt": "2017-10-20T06:48:01.614Z",
+      "RIGHTWARD_GAZE": {
+        "__type": "File",
+        "name": "c1df9ee2765a59a317c4548409c4d637_RIGHTWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/c1df9ee2765a59a317c4548409c4d637_RIGHTWARD_GAZE"
+      },
+      "AGE": 35,
+      "API_LEVEL": "22",
+      "FORWARD_GAZE": {
+        "__type": "File",
+        "name": "6be7f97b35b4aac33cb3d695f021ca58_FORWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/6be7f97b35b4aac33cb3d695f021ca58_FORWARD_GAZE"
+      },
+      "ETHNICITY": "kurdish",
+      "DEVICE": "j2lte",
+      "LEFTWARD_GAZE": {
+        "__type": "File",
+        "name": "96903581f68023aa6756a9d023fd177b_LEFTWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/96903581f68023aa6756a9d023fd177b_LEFTWARD_GAZE"
+      },
+      "RIGHT_EYE_REFRACTION": "0",
+      "UPWARD_GAZE": {
+        "__type": "File",
+        "name": "7c3e7cda2e65dbbddc4d5e0a9c86cd89_UPWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/7c3e7cda2e65dbbddc4d5e0a9c86cd89_UPWARD_GAZE"
+      }
+    },
+    {
+      "objectId": "HpQ59V44cE",
+      "LEFT_EYE_REFRACTION": "-2,00*10",
+      "DOCTOR_NAME": "Zeynep gursel ozkurt ",
+      "LEFT_EYE_DIAGNOSIS": "",
+      "PRODUCT": "j2ltejv",
+      "NAME": "Kadir bilgen",
+      "updatedAt": "2017-11-26T05:56:31.952Z",
+      "DIAGNOSIS": "healthy",
+      "SEX": "Male",
+      "DOWNWARD_GAZE": {
+        "__type": "File",
+        "name": "d8b394b15afcaad04123849b1fd54870_DOWNWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/d8b394b15afcaad04123849b1fd54870_DOWNWARD_GAZE"
+      },
+      "MODEL": "SM-J200F",
+      "createdAt": "2017-10-20T06:50:06.982Z",
+      "RIGHTWARD_GAZE": {
+        "__type": "File",
+        "name": "4b09e8ae2df9e127679912a28f5ef5b2_RIGHTWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/4b09e8ae2df9e127679912a28f5ef5b2_RIGHTWARD_GAZE"
+      },
+      "AGE": 30,
+      "API_LEVEL": "22",
+      "RIGHT_EYE_DIAGNOSIS": "",
+      "FORWARD_GAZE": {
+        "__type": "File",
+        "name": "415fc32df976b26f58de53491a1b090c_FORWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/415fc32df976b26f58de53491a1b090c_FORWARD_GAZE"
+      },
+      "ETHNICITY": "turkish",
+      "DEVICE": "j2lte",
+      "LEFTWARD_GAZE": {
+        "__type": "File",
+        "name": "69a3c831b1167a10fae35082ed37ba20_LEFTWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/69a3c831b1167a10fae35082ed37ba20_LEFTWARD_GAZE"
+      },
+      "RIGHT_EYE_REFRACTION": "-0.50",
+      "UPWARD_GAZE": {
+        "__type": "File",
+        "name": "47875669ab1c9028b693c0318a733310_UPWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/47875669ab1c9028b693c0318a733310_UPWARD_GAZE"
+      }
+    },
+    {
+      "objectId": "3M8eNoAFqt",
+      "LEFT_EYE_REFRACTION": "0",
+      "DOCTOR_NAME": "Zeynep gursel ozkurt ",
+      "PRODUCT": "j2ltejv",
+      "NAME": "hizir cansi",
+      "updatedAt": "2017-11-14T11:45:39.659Z",
+      "DIAGNOSIS": "healthy",
+      "SEX": "Male",
+      "DOWNWARD_GAZE": {
+        "__type": "File",
+        "name": "ea3e507309d963c9e266143bbf7377c7_DOWNWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/ea3e507309d963c9e266143bbf7377c7_DOWNWARD_GAZE"
+      },
+      "MODEL": "SM-J200F",
+      "createdAt": "2017-10-20T06:52:02.709Z",
+      "RIGHTWARD_GAZE": {
+        "__type": "File",
+        "name": "67bfe0c439ab6114b730031eb051da07_RIGHTWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/67bfe0c439ab6114b730031eb051da07_RIGHTWARD_GAZE"
+      },
+      "AGE": 38,
+      "API_LEVEL": "22",
+      "FORWARD_GAZE": {
+        "__type": "File",
+        "name": "f2149e6d6a8ce39d6bf8fee1b28ecea7_FORWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/f2149e6d6a8ce39d6bf8fee1b28ecea7_FORWARD_GAZE"
+      },
+      "ETHNICITY": "kurdish",
+      "DEVICE": "j2lte",
+      "LEFTWARD_GAZE": {
+        "__type": "File",
+        "name": "ae6c43c869a1e00ac4419d2d9194183a_LEFTWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/ae6c43c869a1e00ac4419d2d9194183a_LEFTWARD_GAZE"
+      },
+      "RIGHT_EYE_REFRACTION": "0",
+      "UPWARD_GAZE": {
+        "__type": "File",
+        "name": "dbcb7ecd380b654ec9f9bd9ad58ae224_UPWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/dbcb7ecd380b654ec9f9bd9ad58ae224_UPWARD_GAZE"
+      }
+    },
+    {
+      "objectId": "WIqCYysTMJ",
+      "LEFT_EYE_REFRACTION": "-1.00",
+      "DOCTOR_NAME": "Zeynep gursel ozkurt ",
+      "PRODUCT": "j2ltejv",
+      "NAME": "Arzu kahraman",
+      "updatedAt": "2017-11-14T11:45:40.313Z",
+      "DIAGNOSIS": "healthy",
+      "SEX": "Female",
+      "DOWNWARD_GAZE": {
+        "__type": "File",
+        "name": "936d69ef0b0450998c93337922bf8b8b_DOWNWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/936d69ef0b0450998c93337922bf8b8b_DOWNWARD_GAZE"
+      },
+      "MODEL": "SM-J200F",
+      "createdAt": "2017-10-20T07:00:30.707Z",
+      "RIGHTWARD_GAZE": {
+        "__type": "File",
+        "name": "7fbe5bd5511e698dbbb3407497067f7b_RIGHTWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/7fbe5bd5511e698dbbb3407497067f7b_RIGHTWARD_GAZE"
+      },
+      "AGE": 40,
+      "API_LEVEL": "22",
+      "FORWARD_GAZE": {
+        "__type": "File",
+        "name": "0096b33fc8f57490af78eb5dfbaed3e2_FORWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/0096b33fc8f57490af78eb5dfbaed3e2_FORWARD_GAZE"
+      },
+      "ETHNICITY": "turkish",
+      "DEVICE": "j2lte",
+      "LEFTWARD_GAZE": {
+        "__type": "File",
+        "name": "80b62f30a3d6b194ce3277bc1c7bc9b4_LEFTWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/80b62f30a3d6b194ce3277bc1c7bc9b4_LEFTWARD_GAZE"
+      },
+      "RIGHT_EYE_REFRACTION": "-1.00",
+      "UPWARD_GAZE": {
+        "__type": "File",
+        "name": "11ba38fc9f69c44b42a2cb2897b1eb53_UPWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/11ba38fc9f69c44b42a2cb2897b1eb53_UPWARD_GAZE"
+      }
+    },
+    {
+      "objectId": "ClbACWqOM6",
+      "LEFT_EYE_REFRACTION": "-1.00, ",
+      "DOCTOR_NAME": "Zeynep gursel ozkurt ",
+      "PRODUCT": "j2ltejv",
+      "NAME": "merve bektas",
+      "updatedAt": "2017-11-14T11:45:41.293Z",
+      "DIAGNOSIS": "healthy",
+      "SEX": "Female",
+      "DOWNWARD_GAZE": {
+        "__type": "File",
+        "name": "ff792e4be855254bacb5076b78a051a9_DOWNWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/ff792e4be855254bacb5076b78a051a9_DOWNWARD_GAZE"
+      },
+      "MODEL": "SM-J200F",
+      "createdAt": "2017-10-20T07:09:30.821Z",
+      "RIGHTWARD_GAZE": {
+        "__type": "File",
+        "name": "db73b1e596efe9c8316245cb7bc6ffc1_RIGHTWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/db73b1e596efe9c8316245cb7bc6ffc1_RIGHTWARD_GAZE"
+      },
+      "AGE": 30,
+      "API_LEVEL": "22",
+      "FORWARD_GAZE": {
+        "__type": "File",
+        "name": "e74e488ca449e7e333d18257b8087bda_FORWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/e74e488ca449e7e333d18257b8087bda_FORWARD_GAZE"
+      },
+      "ETHNICITY": "turkish",
+      "DEVICE": "j2lte",
+      "LEFTWARD_GAZE": {
+        "__type": "File",
+        "name": "740956097e298c36544e3139e16ae5ab_LEFTWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/740956097e298c36544e3139e16ae5ab_LEFTWARD_GAZE"
+      },
+      "RIGHT_EYE_REFRACTION": "-0.75",
+      "UPWARD_GAZE": {
+        "__type": "File",
+        "name": "b0f2ee2e33ed76dc510c7a0f76b2b48d_UPWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/b0f2ee2e33ed76dc510c7a0f76b2b48d_UPWARD_GAZE"
+      }
+    },
+    {
+      "objectId": "OC1FodpCA1",
+      "PRODUCT": "X9009",
+      "AGE": 25,
+      "SEX": "Male",
+      "MODEL": "X9009",
+      "NAME": "jeff",
+      "DOCTOR_NAME": "jeff",
+      "DEVICE": "X9009",
+      "API_LEVEL": "22",
+      "createdAt": "2017-10-23T07:55:32.822Z",
+      "updatedAt": "2017-10-23T07:55:32.822Z"
+    },
+    {
+      "objectId": "yWCxmy9pX5",
+      "LEFT_EYE_REFRACTION": "0",
+      "DOCTOR_NAME": "Zeynep gursel ozkurt ",
+      "PRODUCT": "j2ltejv",
+      "NAME": "Mahmut yünce",
+      "updatedAt": "2017-11-14T11:45:41.988Z",
+      "DIAGNOSIS": "right central retinal arter oclusion, left mature cataract",
+      "SEX": "Male",
+      "DOWNWARD_GAZE": {
+        "__type": "File",
+        "name": "29152892805ceabb226f9ccdc55b5b13_DOWNWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/29152892805ceabb226f9ccdc55b5b13_DOWNWARD_GAZE"
+      },
+      "MODEL": "SM-J200F",
+      "createdAt": "2017-10-24T12:21:24.738Z",
+      "RIGHTWARD_GAZE": {
+        "__type": "File",
+        "name": "a329d391671c65e4e41f08580d35a162_RIGHTWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/a329d391671c65e4e41f08580d35a162_RIGHTWARD_GAZE"
+      },
+      "AGE": 60,
+      "API_LEVEL": "22",
+      "FORWARD_GAZE": {
+        "__type": "File",
+        "name": "faa8c2fb26396df2a051edcaec252dda_FORWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/faa8c2fb26396df2a051edcaec252dda_FORWARD_GAZE"
+      },
+      "ETHNICITY": "kurdish",
+      "DEVICE": "j2lte",
+      "LEFTWARD_GAZE": {
+        "__type": "File",
+        "name": "0801b7c0c707aa73a7dd02302727f6aa_LEFTWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/0801b7c0c707aa73a7dd02302727f6aa_LEFTWARD_GAZE"
+      },
+      "RIGHT_EYE_REFRACTION": "0",
+      "UPWARD_GAZE": {
+        "__type": "File",
+        "name": "7fec761af79f624b87aeba79ae67896b_UPWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/7fec761af79f624b87aeba79ae67896b_UPWARD_GAZE"
+      }
+    },
+    {
+      "objectId": "sVSexKjchG",
+      "PRODUCT": "heroqltevzw",
+      "SEX": "Female",
+      "AGE": 49,
+      "MODEL": "SM-G930V",
+      "NAME": "Sarah Mann",
+      "DOCTOR_NAME": "Hakan Demirci ",
+      "ETHNICITY": "White/Caucasian",
+      "DEVICE": "heroqltevzw",
+      "DIAGNOSIS": "choroidal nevus",
+      "API_LEVEL": "24",
+      "createdAt": "2017-10-25T14:13:44.381Z",
+      "updatedAt": "2017-11-06T14:00:45.157Z",
+      "FORWARD_GAZE": {
+        "__type": "File",
+        "name": "f611db7dcb5f7810f1ed5cad95677b59_FORWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/f611db7dcb5f7810f1ed5cad95677b59_FORWARD_GAZE"
+      },
+      "UPWARD_GAZE": {
+        "__type": "File",
+        "name": "0d916f37269bc6a35c81b8a9b8b7b8f0_UPWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/0d916f37269bc6a35c81b8a9b8b7b8f0_UPWARD_GAZE"
+      },
+      "DOWNWARD_GAZE": {
+        "__type": "File",
+        "name": "6e8e0249125979a6f702faef12b0db30_DOWNWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/6e8e0249125979a6f702faef12b0db30_DOWNWARD_GAZE"
+      },
+      "LEFTWARD_GAZE": {
+        "__type": "File",
+        "name": "29313b0da85dd1746506f1ca6d9b5a7d_LEFTWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/29313b0da85dd1746506f1ca6d9b5a7d_LEFTWARD_GAZE"
+      },
+      "RIGHTWARD_GAZE": {
+        "__type": "File",
+        "name": "438758c5b620827892fa7716ce3805ac_RIGHTWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/438758c5b620827892fa7716ce3805ac_RIGHTWARD_GAZE"
+      }
+    },
+    {
+      "objectId": "Uor3EKfeWO",
+      "PRODUCT": "heroqltevzw",
+      "SEX": "Male",
+      "AGE": 81,
+      "MODEL": "SM-G930V",
+      "NAME": "Eugene Tyra",
+      "DOCTOR_NAME": "Hakan Demirci ",
+      "ETHNICITY": "White/Caucasian ",
+      "DEVICE": "heroqltevzw",
+      "DIAGNOSIS": "PEHCR",
+      "API_LEVEL": "24",
+      "createdAt": "2017-10-25T14:39:28.296Z",
+      "updatedAt": "2017-11-06T14:01:01.791Z",
+      "FORWARD_GAZE": {
+        "__type": "File",
+        "name": "3b534e7660ff072466a077a10e98b11d_FORWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/3b534e7660ff072466a077a10e98b11d_FORWARD_GAZE"
+      },
+      "UPWARD_GAZE": {
+        "__type": "File",
+        "name": "e389a5389e3e1c5bbe3af15e0475debf_UPWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/e389a5389e3e1c5bbe3af15e0475debf_UPWARD_GAZE"
+      },
+      "DOWNWARD_GAZE": {
+        "__type": "File",
+        "name": "ade713fc736f3abab22d73d6154427d0_DOWNWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/ade713fc736f3abab22d73d6154427d0_DOWNWARD_GAZE"
+      },
+      "LEFTWARD_GAZE": {
+        "__type": "File",
+        "name": "35299a1a3d3abfd015789afbf439e163_LEFTWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/35299a1a3d3abfd015789afbf439e163_LEFTWARD_GAZE"
+      },
+      "RIGHTWARD_GAZE": {
+        "__type": "File",
+        "name": "fdbbfe0be657bce70f41a9389190722a_RIGHTWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/fdbbfe0be657bce70f41a9389190722a_RIGHTWARD_GAZE"
+      }
+    },
+    {
+      "objectId": "zzAlHwaSZF",
+      "PRODUCT": "heroqltevzw",
+      "SEX": "Male",
+      "AGE": 62,
+      "MODEL": "SM-G930V",
+      "NAME": "Kenneth Heinzerling",
+      "DOCTOR_NAME": "Hakan Demirci ",
+      "ETHNICITY": "White/Caucasian",
+      "DEVICE": "heroqltevzw",
+      "DIAGNOSIS": "choroidal nevus",
+      "API_LEVEL": "24",
+      "createdAt": "2017-10-25T17:24:12.674Z",
+      "updatedAt": "2017-10-25T17:24:12.674Z"
+    },
+    {
+      "objectId": "OAde6LzJdd",
+      "PRODUCT": "heroqltevzw",
+      "SEX": "Male",
+      "AGE": 62,
+      "MODEL": "SM-G930V",
+      "NAME": "Kenneth Heinzerling",
+      "DOCTOR_NAME": "Hakan Demirci ",
+      "ETHNICITY": "White/Caucasian",
+      "DEVICE": "heroqltevzw",
+      "DIAGNOSIS": "choroidal nevus",
+      "API_LEVEL": "24",
+      "createdAt": "2017-10-25T17:24:17.828Z",
+      "updatedAt": "2017-11-06T14:01:41.400Z",
+      "FORWARD_GAZE": {
+        "__type": "File",
+        "name": "4f438ff8dc8f19d9372485cc40023021_FORWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/4f438ff8dc8f19d9372485cc40023021_FORWARD_GAZE"
+      },
+      "UPWARD_GAZE": {
+        "__type": "File",
+        "name": "dea29cf05d669ee26f96cf3d7b782d38_UPWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/dea29cf05d669ee26f96cf3d7b782d38_UPWARD_GAZE"
+      },
+      "DOWNWARD_GAZE": {
+        "__type": "File",
+        "name": "ff2b04630127bd896adb51b17eb68b7d_DOWNWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/ff2b04630127bd896adb51b17eb68b7d_DOWNWARD_GAZE"
+      },
+      "LEFTWARD_GAZE": {
+        "__type": "File",
+        "name": "9714d37a9296f349985760f5a9cb34f0_LEFTWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/9714d37a9296f349985760f5a9cb34f0_LEFTWARD_GAZE"
+      },
+      "RIGHTWARD_GAZE": {
+        "__type": "File",
+        "name": "67a0948b36903fc8783fd7b0bfb5c038_RIGHTWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/67a0948b36903fc8783fd7b0bfb5c038_RIGHTWARD_GAZE"
+      }
+    },
+    {
+      "objectId": "IZQDX2wUck",
+      "PRODUCT": "heroqltevzw",
+      "SEX": "Male",
+      "AGE": 67,
+      "MODEL": "SM-G930V",
+      "NAME": "John Woodruff",
+      "DOCTOR_NAME": "Hakan Demirci ",
+      "ETHNICITY": "white/caucasian",
+      "DEVICE": "heroqltevzw",
+      "DIAGNOSIS": "choroidal nevus/metastasis",
+      "API_LEVEL": "24",
+      "createdAt": "2017-10-25T18:36:22.832Z",
+      "updatedAt": "2017-11-06T14:01:07.497Z",
+      "FORWARD_GAZE": {
+        "__type": "File",
+        "name": "5a1cf2c1f07d0478293cf58cc59df690_FORWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/5a1cf2c1f07d0478293cf58cc59df690_FORWARD_GAZE"
+      },
+      "UPWARD_GAZE": {
+        "__type": "File",
+        "name": "f10853a02e2f196715ac398d50281fcc_UPWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/f10853a02e2f196715ac398d50281fcc_UPWARD_GAZE"
+      },
+      "DOWNWARD_GAZE": {
+        "__type": "File",
+        "name": "f88c95f20a8f14253706e51fb54ce135_DOWNWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/f88c95f20a8f14253706e51fb54ce135_DOWNWARD_GAZE"
+      },
+      "LEFTWARD_GAZE": {
+        "__type": "File",
+        "name": "e8265ef8aebcfff893bc4dc3d49b08a0_LEFTWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/e8265ef8aebcfff893bc4dc3d49b08a0_LEFTWARD_GAZE"
+      },
+      "RIGHTWARD_GAZE": {
+        "__type": "File",
+        "name": "67b182299547e2260527aa39daa1d7db_RIGHTWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/67b182299547e2260527aa39daa1d7db_RIGHTWARD_GAZE"
+      }
+    },
+    {
+      "objectId": "7PNQNtPFN9",
+      "PRODUCT": "CUN-U29",
+      "AGE": 38,
+      "SEX": "Male",
+      "MODEL": "HUAWEI CUN-U29",
+      "NAME": "elito",
+      "DOCTOR_NAME": "elito",
+      "DEVICE": "HWCUN-U6582",
+      "API_LEVEL": "22",
+      "createdAt": "2017-10-27T13:48:34.323Z",
+      "updatedAt": "2017-10-27T13:48:34.323Z"
+    },
+    {
+      "objectId": "WV52ii5Gz2",
+      "PRODUCT": "CUN-U29",
+      "AGE": 38,
+      "SEX": "Male",
+      "MODEL": "HUAWEI CUN-U29",
+      "NAME": "elito",
+      "DOCTOR_NAME": "elito",
+      "DEVICE": "HWCUN-U6582",
+      "API_LEVEL": "22",
+      "createdAt": "2017-10-27T13:48:40.835Z",
+      "updatedAt": "2017-10-27T13:48:40.835Z"
+    },
+    {
+      "objectId": "llDmIbMh0I",
+      "PRODUCT": "A2010-a",
+      "AGE": 12,
+      "SEX": "Female",
+      "MODEL": "Lenovo A2010-a",
+      "NAME": "Sopfia",
+      "LEFT_EYE_REFRACTION": "100",
+      "RIGHT_EYE_REFRACTION": "100",
+      "DOCTOR_NAME": "Sopfia",
+      "ETHNICITY": "100",
+      "DEVICE": "A2010-a",
+      "API_LEVEL": "22",
+      "createdAt": "2017-10-31T18:21:02.320Z",
+      "updatedAt": "2017-10-31T18:21:02.320Z"
+    },
+    {
+      "objectId": "wtGRv3ME6V",
+      "PRODUCT": "PGN522",
+      "AGE": 51,
+      "SEX": "Male",
+      "MODEL": "PGN522",
+      "NAME": "salem boukelba",
+      "DOCTOR_NAME": "salem salem",
+      "DEVICE": "PGN522",
+      "API_LEVEL": "23",
+      "createdAt": "2017-10-31T21:29:07.712Z",
+      "updatedAt": "2017-10-31T21:29:07.712Z"
+    },
+    {
+      "objectId": "gHbyml8yb0",
+      "PRODUCT": "PGN522",
+      "AGE": 51,
+      "SEX": "Male",
+      "MODEL": "PGN522",
+      "NAME": "salem boukelba",
+      "DOCTOR_NAME": "salem salem",
+      "DEVICE": "PGN522",
+      "API_LEVEL": "23",
+      "createdAt": "2017-10-31T21:29:10.923Z",
+      "updatedAt": "2017-10-31T21:29:38.324Z",
+      "FORWARD_GAZE": {
+        "__type": "File",
+        "name": "c97e27aec5378e5946d9ce43339f06b6_FORWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/c97e27aec5378e5946d9ce43339f06b6_FORWARD_GAZE"
+      }
+    },
+    {
+      "objectId": "HT6dPGj6Kh",
+      "RIGHT_EYE_DIAGNOSIS": "Melanoma",
+      "DOCTOR_NAME": "Joshua Meyer",
+      "PRODUCT": "sailfish",
+      "SEX": "Female",
+      "DEVICE": "sailfish",
+      "LEFT_EYE_DIAGNOSIS": "Retinoblastoma",
+      "MODEL": "Pixel",
+      "ETHNICITY": "White",
+      "API_LEVEL": "26",
+      "NAME": "Julie Mattei",
+      "AGE": 27,
+      "createdAt": "2017-11-03T21:43:34.217Z",
+      "updatedAt": "2017-11-26T05:45:11.006Z",
+      "FORWARD_GAZE": {
+        "__type": "File",
+        "name": "f43cfc9b0c51b5c0866ba1103316886e_FORWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/f43cfc9b0c51b5c0866ba1103316886e_FORWARD_GAZE"
+      },
+      "UPWARD_GAZE": {
+        "__type": "File",
+        "name": "93bbd2db6628ffd56674fbc383e9743a_UPWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/93bbd2db6628ffd56674fbc383e9743a_UPWARD_GAZE"
+      },
+      "LEFTWARD_GAZE": {
+        "__type": "File",
+        "name": "595a959cbaa42477d9f0de775bb16d8a_LEFTWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/595a959cbaa42477d9f0de775bb16d8a_LEFTWARD_GAZE"
+      },
+      "RIGHTWARD_GAZE": {
+        "__type": "File",
+        "name": "f7e0610b052232a435d60aae8ff28a56_RIGHTWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/f7e0610b052232a435d60aae8ff28a56_RIGHTWARD_GAZE"
+      }
+    },
+    {
+      "objectId": "wHflTqdtzg",
+      "FORWARD_GAZE": {
+        "__type": "File",
+        "name": "7de2e85537d12d81146a11548b16a2b7_FORWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/7de2e85537d12d81146a11548b16a2b7_FORWARD_GAZE"
+      },
+      "createdAt": "2017-11-06T14:00:56.076Z",
+      "updatedAt": "2017-11-06T14:02:11.829Z",
+      "PRODUCT": "heroqltevzw",
+      "RIGHT_EYE_DIAGNOSIS": "Normal",
+      "SEX": "Male",
+      "DOCTOR_NAME": "Hakan Demirci ",
+      "LEFT_EYE_DIAGNOSIS": "Normal",
+      "DEVICE": "heroqltevzw",
+      "API_LEVEL": "24",
+      "MODEL": "SM-G930V"
+    },
+    {
+      "objectId": "yCeLlQTNUA",
+      "PRODUCT": "heroqltevzw",
+      "RIGHT_EYE_DIAGNOSIS": "Normal",
+      "SEX": "Male",
+      "DOCTOR_NAME": "Hakan Demirci ",
+      "LEFT_EYE_DIAGNOSIS": "Normal",
+      "DEVICE": "heroqltevzw",
+      "API_LEVEL": "24",
+      "MODEL": "SM-G930V",
+      "createdAt": "2017-11-06T14:01:55.008Z",
+      "updatedAt": "2017-11-06T14:01:55.008Z"
+    },
+    {
+      "objectId": "zCuuEGqyo9",
+      "PRODUCT": "heroqltevzw",
+      "RIGHT_EYE_DIAGNOSIS": "Normal",
+      "SEX": "Male",
+      "DOCTOR_NAME": "Hakan Demirci ",
+      "LEFT_EYE_DIAGNOSIS": "Normal",
+      "DEVICE": "heroqltevzw",
+      "API_LEVEL": "24",
+      "MODEL": "SM-G930V",
+      "createdAt": "2017-11-06T14:03:58.174Z",
+      "updatedAt": "2017-11-06T14:03:58.174Z"
+    },
+    {
+      "objectId": "0jNizoK5yP",
+      "PRODUCT": "OnePlus5",
+      "RIGHT_EYE_DIAGNOSIS": "Normal",
+      "SEX": "Male",
+      "DOCTOR_NAME": "Dr Syed Mohideen",
+      "LEFT_EYE_DIAGNOSIS": "Normal",
+      "DEVICE": "OnePlus5",
+      "API_LEVEL": "25",
+      "MODEL": "ONEPLUS A5000",
+      "createdAt": "2017-11-07T00:59:48.087Z",
+      "updatedAt": "2017-11-07T00:59:48.087Z"
+    },
+    {
+      "objectId": "SOz7xcfHR9",
+      "PRODUCT": "OnePlus5",
+      "RIGHT_EYE_DIAGNOSIS": "Normal",
+      "SEX": "Male",
+      "DOCTOR_NAME": "Dr Syed Mohideen",
+      "LEFT_EYE_DIAGNOSIS": "Normal",
+      "DEVICE": "OnePlus5",
+      "API_LEVEL": "25",
+      "MODEL": "ONEPLUS A5000",
+      "createdAt": "2017-11-07T00:59:52.601Z",
+      "updatedAt": "2017-11-07T01:00:24.281Z",
+      "FORWARD_GAZE": {
+        "__type": "File",
+        "name": "202cbd01c3f029bed95c300bfd9635ac_FORWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/202cbd01c3f029bed95c300bfd9635ac_FORWARD_GAZE"
+      },
+      "UPWARD_GAZE": {
+        "__type": "File",
+        "name": "0fe0f77573cc581b08310b3cc0eb8a65_UPWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/0fe0f77573cc581b08310b3cc0eb8a65_UPWARD_GAZE"
+      },
+      "LEFTWARD_GAZE": {
+        "__type": "File",
+        "name": "6512f4583a2812a235b55e5af64ec7f2_LEFTWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/6512f4583a2812a235b55e5af64ec7f2_LEFTWARD_GAZE"
+      },
+      "RIGHTWARD_GAZE": {
+        "__type": "File",
+        "name": "aeeca7d3f279aff24616fcfc2cfa5925_RIGHTWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/aeeca7d3f279aff24616fcfc2cfa5925_RIGHTWARD_GAZE"
+      }
+    },
+    {
+      "objectId": "i20HizduFg",
+      "PRODUCT": "OnePlus5",
+      "RIGHT_EYE_DIAGNOSIS": "Normal",
+      "SEX": "Male",
+      "DOCTOR_NAME": "Dr Syed Mohideen",
+      "LEFT_EYE_DIAGNOSIS": "Normal",
+      "DEVICE": "OnePlus5",
+      "API_LEVEL": "25",
+      "MODEL": "ONEPLUS A5000",
+      "createdAt": "2017-11-07T01:01:26.441Z",
+      "updatedAt": "2017-11-07T01:01:51.197Z",
+      "FORWARD_GAZE": {
+        "__type": "File",
+        "name": "15821d0e64422afd9642ec52fce8502b_FORWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/15821d0e64422afd9642ec52fce8502b_FORWARD_GAZE"
+      },
+      "UPWARD_GAZE": {
+        "__type": "File",
+        "name": "213b0dc065c312a093c7a43fa855b407_UPWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/213b0dc065c312a093c7a43fa855b407_UPWARD_GAZE"
+      },
+      "LEFTWARD_GAZE": {
+        "__type": "File",
+        "name": "a0a60bc1ca3513c538a82487641625ba_LEFTWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/a0a60bc1ca3513c538a82487641625ba_LEFTWARD_GAZE"
+      },
+      "RIGHTWARD_GAZE": {
+        "__type": "File",
+        "name": "b5ac54d879d2f95eb1b8db8e5eb3e5cd_RIGHTWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/b5ac54d879d2f95eb1b8db8e5eb3e5cd_RIGHTWARD_GAZE"
+      }
+    },
+    {
+      "objectId": "DYwnX0Dll0",
+      "RIGHT_EYE_DIAGNOSIS": "Normal",
+      "PRODUCT": "heroqltevzw",
+      "AGE": 37,
+      "SEX": "Female",
+      "MODEL": "SM-G930V",
+      "NAME": "Tori Rucker",
+      "LEFT_EYE_DIAGNOSIS": "orbital lacrimal gland tumor",
+      "DOCTOR_NAME": "Hakan Demirci ",
+      "ETHNICITY": "Black/African American",
+      "DEVICE": "heroqltevzw",
+      "API_LEVEL": "24",
+      "createdAt": "2017-11-07T15:58:39.036Z",
+      "updatedAt": "2017-11-07T15:59:43.678Z",
+      "FORWARD_GAZE": {
+        "__type": "File",
+        "name": "d87670e501ce3cb3f4a5ff1516da5c91_FORWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/d87670e501ce3cb3f4a5ff1516da5c91_FORWARD_GAZE"
+      },
+      "UPWARD_GAZE": {
+        "__type": "File",
+        "name": "701c5553f93a36c2c6c025c2fdda2fbb_UPWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/701c5553f93a36c2c6c025c2fdda2fbb_UPWARD_GAZE"
+      },
+      "LEFTWARD_GAZE": {
+        "__type": "File",
+        "name": "aae365318fcf52075390115a0590f977_LEFTWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/aae365318fcf52075390115a0590f977_LEFTWARD_GAZE"
+      },
+      "RIGHTWARD_GAZE": {
+        "__type": "File",
+        "name": "88d28a1d3fbf3b00907357c32490d7d9_RIGHTWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/88d28a1d3fbf3b00907357c32490d7d9_RIGHTWARD_GAZE"
+      }
+    },
+    {
+      "objectId": "eOJ9K3HALi",
+      "LEFT_EYE_REFRACTION": "+1,25 -1,75 x 95",
+      "DOCTOR_NAME": "Lísia Aoki",
+      "LEFT_EYE_DIAGNOSIS": "Cataract",
+      "PRODUCT": "zeroltedv",
+      "NAME": "Titoche",
+      "updatedAt": "2017-11-07T21:09:42.793Z",
+      "SEX": "Female",
+      "MODEL": "SM-G925I",
+      "createdAt": "2017-11-07T17:29:01.637Z",
+      "RIGHTWARD_GAZE": {
+        "__type": "File",
+        "name": "8cba3d33113e1fb5b0808b489340ecae_RIGHTWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/8cba3d33113e1fb5b0808b489340ecae_RIGHTWARD_GAZE"
+      },
+      "RIGHT_EYE_DIAGNOSIS": "Cataract",
+      "AGE": 74,
+      "API_LEVEL": "24",
+      "FORWARD_GAZE": {
+        "__type": "File",
+        "name": "30ddeb2d58f1103b5b2b66c4f358a83b_FORWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/30ddeb2d58f1103b5b2b66c4f358a83b_FORWARD_GAZE"
+      },
+      "ETHNICITY": "japanese",
+      "DEVICE": "zerolte",
+      "LEFTWARD_GAZE": {
+        "__type": "File",
+        "name": "96ce27d58f0b9f3dd9c2abb0a719661c_LEFTWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/96ce27d58f0b9f3dd9c2abb0a719661c_LEFTWARD_GAZE"
+      },
+      "RIGHT_EYE_REFRACTION": "+2,25 -1,50 x 100",
+      "UPWARD_GAZE": {
+        "__type": "File",
+        "name": "2b560758865c56f0cea504b9c2865daa_UPWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/2b560758865c56f0cea504b9c2865daa_UPWARD_GAZE"
+      }
+    },
+    {
+      "objectId": "wv5qh94Ctd",
+      "FORWARD_GAZE": {
+        "__type": "File",
+        "name": "c5cef755302dd8dc57ed99ea0381f146_FORWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/c5cef755302dd8dc57ed99ea0381f146_FORWARD_GAZE"
+      },
+      "createdAt": "2017-11-07T17:50:18.693Z",
+      "updatedAt": "2017-11-07T21:10:04.492Z",
+      "RIGHT_EYE_DIAGNOSIS": "pseudophakia",
+      "PRODUCT": "zeroltedv",
+      "SEX": "Male",
+      "AGE": 82,
+      "MODEL": "SM-G925I",
+      "LEFT_EYE_REFRACTION": "-3,25",
+      "NAME": "Adão ",
+      "DOCTOR_NAME": "Lísia Aoki",
+      "RIGHT_EYE_REFRACTION": "-1,00",
+      "LEFT_EYE_DIAGNOSIS": "Cataract",
+      "ETHNICITY": "caucasian",
+      "DEVICE": "zerolte",
+      "API_LEVEL": "24",
+      "UPWARD_GAZE": {
+        "__type": "File",
+        "name": "bde3ed663d0ef43a06a034e8e9eb9bc7_UPWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/bde3ed663d0ef43a06a034e8e9eb9bc7_UPWARD_GAZE"
+      },
+      "RIGHTWARD_GAZE": {
+        "__type": "File",
+        "name": "3d589a0029d178ff8691d4faba40ffb6_RIGHTWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/3d589a0029d178ff8691d4faba40ffb6_RIGHTWARD_GAZE"
+      }
+    },
+    {
+      "objectId": "5AlyfixACX",
+      "RIGHT_EYE_DIAGNOSIS": "hemorrhage",
+      "PRODUCT": "heroqltevzw",
+      "SEX": "Female",
+      "AGE": 77,
+      "MODEL": "SM-G930V",
+      "LEFT_EYE_REFRACTION": "-0.50 +1.00 158 +2.50",
+      "NAME": "Gladys Perkins",
+      "DOCTOR_NAME": "Hakan Demirci ",
+      "RIGHT_EYE_REFRACTION": "-0.25 +0.25 130 +2.50",
+      "LEFT_EYE_DIAGNOSIS": "Normal",
+      "ETHNICITY": "White/Caucasian",
+      "DEVICE": "heroqltevzw",
+      "API_LEVEL": "24",
+      "createdAt": "2017-11-07T18:30:40.774Z",
+      "updatedAt": "2017-11-07T18:33:31.603Z",
+      "LEFTWARD_GAZE": {
+        "__type": "File",
+        "name": "c21cc2bfe620310b016bc676eb6c4585_LEFTWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/c21cc2bfe620310b016bc676eb6c4585_LEFTWARD_GAZE"
+      },
+      "RIGHTWARD_GAZE": {
+        "__type": "File",
+        "name": "83c10a1d2926bdfb38f2a0bfff207c4e_RIGHTWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/83c10a1d2926bdfb38f2a0bfff207c4e_RIGHTWARD_GAZE"
+      }
+    },
+    {
+      "objectId": "l8j9iniuKF",
+      "LEFT_EYE_REFRACTION": "-2,50 -0,50 x170",
+      "DOCTOR_NAME": "Lísia Aoki",
+      "LEFT_EYE_DIAGNOSIS": "Cataract",
+      "PRODUCT": "zeroltedv",
+      "NAME": "Selma",
+      "updatedAt": "2017-11-07T21:09:55.966Z",
+      "SEX": "Female",
+      "MODEL": "SM-G925I",
+      "createdAt": "2017-11-07T21:09:38.125Z",
+      "RIGHTWARD_GAZE": {
+        "__type": "File",
+        "name": "ebf8614475153d736b4d64c57e39e73c_RIGHTWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/ebf8614475153d736b4d64c57e39e73c_RIGHTWARD_GAZE"
+      },
+      "RIGHT_EYE_DIAGNOSIS": "Cataract",
+      "AGE": 70,
+      "API_LEVEL": "24",
+      "FORWARD_GAZE": {
+        "__type": "File",
+        "name": "4faa8bef44788b4ba8169d4baee01139_FORWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/4faa8bef44788b4ba8169d4baee01139_FORWARD_GAZE"
+      },
+      "ETHNICITY": "japanese",
+      "DEVICE": "zerolte",
+      "LEFTWARD_GAZE": {
+        "__type": "File",
+        "name": "1880ae3f5d899863a5a9e3b8cbbe39ad_LEFTWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/1880ae3f5d899863a5a9e3b8cbbe39ad_LEFTWARD_GAZE"
+      },
+      "UPWARD_GAZE": {
+        "__type": "File",
+        "name": "25dd03ac3c72c8101e3adbcf4b71f0ba_UPWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/25dd03ac3c72c8101e3adbcf4b71f0ba_UPWARD_GAZE"
+      },
+      "RIGHT_EYE_REFRACTION": "-1,75 -0,50 x 10"
+    },
+    {
+      "objectId": "bx6RjL7pM3",
+      "PRODUCT": "heroqltevzw",
+      "RIGHT_EYE_DIAGNOSIS": "Normal",
+      "SEX": "Male",
+      "DOCTOR_NAME": "Hakan Demirci ",
+      "LEFT_EYE_DIAGNOSIS": "Normal",
+      "DEVICE": "heroqltevzw",
+      "API_LEVEL": "24",
+      "MODEL": "SM-G930V",
+      "createdAt": "2017-11-10T16:03:12.169Z",
+      "updatedAt": "2017-11-10T16:03:12.169Z"
+    },
+    {
+      "objectId": "lAuBzYa9MJ",
+      "PRODUCT": "heroqltevzw",
+      "RIGHT_EYE_DIAGNOSIS": "Normal",
+      "SEX": "Male",
+      "DOCTOR_NAME": "Hakan Demirci ",
+      "LEFT_EYE_DIAGNOSIS": "Normal",
+      "DEVICE": "heroqltevzw",
+      "API_LEVEL": "24",
+      "MODEL": "SM-G930V",
+      "createdAt": "2017-11-10T16:03:12.171Z",
+      "updatedAt": "2017-11-10T16:03:47.773Z",
+      "FORWARD_GAZE": {
+        "__type": "File",
+        "name": "b63222b5e945c15c31c108983cddba5b_FORWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/b63222b5e945c15c31c108983cddba5b_FORWARD_GAZE"
+      }
+    },
+    {
+      "objectId": "hZFrYRqde4",
+      "PRODUCT": "heroqltevzw",
+      "RIGHT_EYE_DIAGNOSIS": "Normal",
+      "SEX": "Male",
+      "DOCTOR_NAME": "Hakan Demirci ",
+      "LEFT_EYE_DIAGNOSIS": "Normal",
+      "DEVICE": "heroqltevzw",
+      "API_LEVEL": "24",
+      "MODEL": "SM-G930V",
+      "createdAt": "2017-11-11T16:36:38.835Z",
+      "updatedAt": "2017-11-11T16:36:38.835Z"
+    },
+    {
+      "objectId": "8BIoCjSCqb",
+      "PRODUCT": "heroqltevzw",
+      "RIGHT_EYE_DIAGNOSIS": "Normal",
+      "SEX": "Male",
+      "DOCTOR_NAME": "Hakan Demirci ",
+      "LEFT_EYE_DIAGNOSIS": "Normal",
+      "DEVICE": "heroqltevzw",
+      "API_LEVEL": "24",
+      "MODEL": "SM-G930V",
+      "createdAt": "2017-11-12T19:18:20.604Z",
+      "updatedAt": "2017-11-12T19:18:20.604Z"
+    },
+    {
+      "objectId": "Fu0uW3tL8Q",
+      "PRODUCT": "heroqltevzw",
+      "RIGHT_EYE_DIAGNOSIS": "Normal",
+      "SEX": "Male",
+      "DOCTOR_NAME": "Hakan Demirci ",
+      "LEFT_EYE_DIAGNOSIS": "Normal",
+      "DEVICE": "heroqltevzw",
+      "API_LEVEL": "24",
+      "MODEL": "SM-G930V",
+      "createdAt": "2017-11-13T19:19:11.778Z",
+      "updatedAt": "2017-11-13T19:19:48.567Z",
+      "FORWARD_GAZE": {
+        "__type": "File",
+        "name": "504d926eedfd1544b69ddcee995783b2_FORWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/504d926eedfd1544b69ddcee995783b2_FORWARD_GAZE"
+      }
+    },
+    {
+      "objectId": "yKT7KfoVaM",
+      "LEFT_EYE_REFRACTION": "0",
+      "DOCTOR_NAME": "Zeynep gursel ozkurt ",
+      "LEFT_EYE_DIAGNOSIS": "Cataract",
+      "PRODUCT": "j2ltejv",
+      "NAME": "Meryem acik",
+      "updatedAt": "2017-11-14T13:42:57.904Z",
+      "SEX": "Female",
+      "MODEL": "SM-J200F",
+      "createdAt": "2017-11-14T13:42:27.503Z",
+      "RIGHTWARD_GAZE": {
+        "__type": "File",
+        "name": "9613bb484f2577bd5645b9be3fe530c6_RIGHTWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/9613bb484f2577bd5645b9be3fe530c6_RIGHTWARD_GAZE"
+      },
+      "RIGHT_EYE_DIAGNOSIS": "afakia",
+      "AGE": 0,
+      "API_LEVEL": "22",
+      "FORWARD_GAZE": {
+        "__type": "File",
+        "name": "80dd28a0c2258b10b444ac0067a00177_FORWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/80dd28a0c2258b10b444ac0067a00177_FORWARD_GAZE"
+      },
+      "ETHNICITY": "kurdish",
+      "DEVICE": "j2lte",
+      "LEFTWARD_GAZE": {
+        "__type": "File",
+        "name": "9666cf41f27ffff416cbac46549304b0_LEFTWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/9666cf41f27ffff416cbac46549304b0_LEFTWARD_GAZE"
+      },
+      "RIGHT_EYE_REFRACTION": "+17.00",
+      "UPWARD_GAZE": {
+        "__type": "File",
+        "name": "9681dfce362d3e5f51fbd23d770d0acc_UPWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/9681dfce362d3e5f51fbd23d770d0acc_UPWARD_GAZE"
+      }
+    },
+    {
+      "objectId": "SvCdG896i3",
+      "PRODUCT": "heroqltevzw",
+      "RIGHT_EYE_DIAGNOSIS": "Normal",
+      "SEX": "Male",
+      "DOCTOR_NAME": "Hakan Demirci ",
+      "LEFT_EYE_DIAGNOSIS": "Normal",
+      "DEVICE": "heroqltevzw",
+      "API_LEVEL": "24",
+      "MODEL": "SM-G930V",
+      "createdAt": "2017-11-14T21:08:10.334Z",
+      "updatedAt": "2017-11-14T21:08:25.741Z",
+      "FORWARD_GAZE": {
+        "__type": "File",
+        "name": "a74ef621f0887899a049894cbb89c246_FORWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/a74ef621f0887899a049894cbb89c246_FORWARD_GAZE"
+      }
+    },
+    {
+      "objectId": "hJYXXkqN3J",
+      "LEFT_EYE_REFRACTION": "0",
+      "DOCTOR_NAME": "Zeynep gursel ozkurt ",
+      "LEFT_EYE_DIAGNOSIS": "Cataract",
+      "PRODUCT": "j2ltejv",
+      "NAME": "Yusuf korkmaz",
+      "updatedAt": "2017-11-15T11:08:47.206Z",
+      "SEX": "Female",
+      "MODEL": "SM-J200F",
+      "createdAt": "2017-11-15T11:07:12.874Z",
+      "RIGHTWARD_GAZE": {
+        "__type": "File",
+        "name": "89fdff9b6200062a82fca5c045e6be7c_RIGHTWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/89fdff9b6200062a82fca5c045e6be7c_RIGHTWARD_GAZE"
+      },
+      "RIGHT_EYE_DIAGNOSIS": "afakia",
+      "AGE": 0,
+      "API_LEVEL": "22",
+      "FORWARD_GAZE": {
+        "__type": "File",
+        "name": "9b9e6cf0538cda81f8e27ff24ee2228c_FORWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/9b9e6cf0538cda81f8e27ff24ee2228c_FORWARD_GAZE"
+      },
+      "ETHNICITY": "kurdish",
+      "DEVICE": "j2lte",
+      "LEFTWARD_GAZE": {
+        "__type": "File",
+        "name": "5f23258f5cb07d3df7bf0908751c47ab_LEFTWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/5f23258f5cb07d3df7bf0908751c47ab_LEFTWARD_GAZE"
+      },
+      "RIGHT_EYE_REFRACTION": "+18",
+      "UPWARD_GAZE": {
+        "__type": "File",
+        "name": "4d60fa7a10a84ceade141a96bdcc6561_UPWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/4d60fa7a10a84ceade141a96bdcc6561_UPWARD_GAZE"
+      }
+    },
+    {
+      "objectId": "gIYunEU6xE",
+      "LEFT_EYE_REFRACTION": "0",
+      "DOCTOR_NAME": "Zeynep gursel ozkurt ",
+      "LEFT_EYE_DIAGNOSIS": "Cataract",
+      "PRODUCT": "j2ltejv",
+      "NAME": "Zeynep temur",
+      "updatedAt": "2017-11-17T06:17:58.578Z",
+      "SEX": "Female",
+      "MODEL": "SM-J200F",
+      "createdAt": "2017-11-17T06:17:18.551Z",
+      "RIGHTWARD_GAZE": {
+        "__type": "File",
+        "name": "2cb5bc593f4095ca5f02789efff83f64_RIGHTWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/2cb5bc593f4095ca5f02789efff83f64_RIGHTWARD_GAZE"
+      },
+      "RIGHT_EYE_DIAGNOSIS": "Normal",
+      "AGE": 1,
+      "API_LEVEL": "22",
+      "FORWARD_GAZE": {
+        "__type": "File",
+        "name": "2e53b775318961bc4c247fe78bb5cdad_FORWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/2e53b775318961bc4c247fe78bb5cdad_FORWARD_GAZE"
+      },
+      "ETHNICITY": "kurdish",
+      "DEVICE": "j2lte",
+      "LEFTWARD_GAZE": {
+        "__type": "File",
+        "name": "4c4bacf3ebd8fa62a688a395eec810e0_LEFTWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/4c4bacf3ebd8fa62a688a395eec810e0_LEFTWARD_GAZE"
+      },
+      "RIGHT_EYE_REFRACTION": "0",
+      "UPWARD_GAZE": {
+        "__type": "File",
+        "name": "e3b015a3e8289b88e54f3fbb6a835be3_UPWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/e3b015a3e8289b88e54f3fbb6a835be3_UPWARD_GAZE"
+      }
+    },
+    {
+      "objectId": "55gKq1bHqm",
+      "RIGHT_EYE_DIAGNOSIS": "Normal",
+      "PRODUCT": "heroqltevzw",
+      "AGE": 2,
+      "SEX": "Female",
+      "MODEL": "SM-G930V",
+      "NAME": "sadi marinaro",
+      "LEFT_EYE_DIAGNOSIS": "Retinoblastoma",
+      "DOCTOR_NAME": "Hakan Demirci ",
+      "ETHNICITY": "white",
+      "DEVICE": "heroqltevzw",
+      "API_LEVEL": "24",
+      "createdAt": "2017-11-17T12:37:54.065Z",
+      "updatedAt": "2017-11-26T06:09:29.276Z",
+      "FORWARD_GAZE": {
+        "__type": "File",
+        "name": "2b51c237da310ac10f47f9841c49b05b_FORWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/2b51c237da310ac10f47f9841c49b05b_FORWARD_GAZE"
+      },
+      "UPWARD_GAZE": {
+        "__type": "File",
+        "name": "41702deca1ee6350dd6cb0ce80ff0826_UPWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/41702deca1ee6350dd6cb0ce80ff0826_UPWARD_GAZE"
+      },
+      "LEFTWARD_GAZE": {
+        "__type": "File",
+        "name": "fa929c903db937e99a748324fb5d684c_LEFTWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/fa929c903db937e99a748324fb5d684c_LEFTWARD_GAZE"
+      },
+      "RIGHTWARD_GAZE": {
+        "__type": "File",
+        "name": "6fe826d7a9a059dc2fea5a357302223f_RIGHTWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/6fe826d7a9a059dc2fea5a357302223f_RIGHTWARD_GAZE"
+      }
+    },
+    {
+      "objectId": "1LEGByi3bs",
+      "LEFT_EYE_REFRACTION": "+2,25 -2,25 x 90",
+      "DOCTOR_NAME": "Lísia Aoki",
+      "LEFT_EYE_DIAGNOSIS": "macular hyperpigmentation spots",
+      "PRODUCT": "zeroltedv",
+      "NAME": "Jocelei",
+      "updatedAt": "2017-11-23T21:14:15.713Z",
+      "SEX": "Male",
+      "MODEL": "SM-G925I",
+      "createdAt": "2017-11-23T18:37:47.081Z",
+      "RIGHTWARD_GAZE": {
+        "__type": "File",
+        "name": "4d63d295be5e288f657325914b945e54_RIGHTWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/4d63d295be5e288f657325914b945e54_RIGHTWARD_GAZE"
+      },
+      "RIGHT_EYE_DIAGNOSIS": "macular hyperpigmentation spots",
+      "AGE": 69,
+      "API_LEVEL": "24",
+      "FORWARD_GAZE": {
+        "__type": "File",
+        "name": "ffe8abb0270c0ac46460565fe7f5a0f0_FORWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/ffe8abb0270c0ac46460565fe7f5a0f0_FORWARD_GAZE"
+      },
+      "ETHNICITY": "caucasian",
+      "DEVICE": "zerolte",
+      "LEFTWARD_GAZE": {
+        "__type": "File",
+        "name": "8ae848927202b0b6a2745fbda2c05c14_LEFTWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/8ae848927202b0b6a2745fbda2c05c14_LEFTWARD_GAZE"
+      },
+      "RIGHT_EYE_REFRACTION": "+1,75 - 1,25 × 75",
+      "UPWARD_GAZE": {
+        "__type": "File",
+        "name": "6b21f696a6e34d246f7ebeee42b17e88_UPWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/6b21f696a6e34d246f7ebeee42b17e88_UPWARD_GAZE"
+      }
+    },
+    {
+      "objectId": "6Ioq9MdlAs",
+      "LEFT_EYE_DIAGNOSIS": "Normal",
+      "DEVICE": "xiaomi",
+      "MODEL": "xiaomi-1s",
+      "DOCTOR_NAME": "18810541234",
+      "SEX": "Female",
+      "API_LEVEL": "17",
+      "PRODUCT": "xiaomi",
+      "RIGHT_EYE_DIAGNOSIS": "Normal",
+      "createdAt": "2017-11-23T19:21:15.032Z",
+      "updatedAt": "2017-11-23T19:21:28.074Z",
+      "FORWARD_GAZE": {
+        "__type": "File",
+        "name": "1cbe4e70a79888602593d30dac6b862c_FORWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/1cbe4e70a79888602593d30dac6b862c_FORWARD_GAZE"
+      }
+    },
+    {
+      "objectId": "u8VygjCT6j",
+      "LEFT_EYE_DIAGNOSIS": "Normal",
+      "DEVICE": "mako",
+      "MODEL": "Nexus 4",
+      "NAME": "vwoijgwe213213",
+      "DOCTOR_NAME": "vwoijgwe213213",
+      "AGE": 2132314,
+      "SEX": "Male",
+      "API_LEVEL": "16",
+      "PRODUCT": "occam",
+      "RIGHT_EYE_DIAGNOSIS": "Normal",
+      "ETHNICITY": "fvd324",
+      "createdAt": "2017-11-23T19:58:00.016Z",
+      "updatedAt": "2017-11-23T19:58:00.016Z"
+    },
+    {
+      "objectId": "Jeox9M8DO9",
+      "LEFT_EYE_REFRACTION": "zero",
+      "DOCTOR_NAME": "Lísia Aoki",
+      "LEFT_EYE_DIAGNOSIS": "Normal",
+      "PRODUCT": "zeroltedv",
+      "NAME": "erick",
+      "updatedAt": "2017-11-25T13:18:02.281Z",
+      "SEX": "Male",
+      "MODEL": "SM-G925I",
+      "createdAt": "2017-11-25T12:53:03.040Z",
+      "RIGHTWARD_GAZE": {
+        "__type": "File",
+        "name": "0540fa97eb76366d6aeecdb4d9d687a7_RIGHTWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/0540fa97eb76366d6aeecdb4d9d687a7_RIGHTWARD_GAZE"
+      },
+      "RIGHT_EYE_DIAGNOSIS": "Cataract",
+      "AGE": 20,
+      "API_LEVEL": "24",
+      "FORWARD_GAZE": {
+        "__type": "File",
+        "name": "fbaa6e1e79f3b15598c85a9092c3809d_FORWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/fbaa6e1e79f3b15598c85a9092c3809d_FORWARD_GAZE"
+      },
+      "ETHNICITY": "african american",
+      "DEVICE": "zerolte",
+      "LEFTWARD_GAZE": {
+        "__type": "File",
+        "name": "006a217515c444a102626e4de59ae4ac_LEFTWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/006a217515c444a102626e4de59ae4ac_LEFTWARD_GAZE"
+      },
+      "RIGHT_EYE_REFRACTION": "zero",
+      "UPWARD_GAZE": {
+        "__type": "File",
+        "name": "f09b85fd0bd709263d450b5aeac95e8c_UPWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/f09b85fd0bd709263d450b5aeac95e8c_UPWARD_GAZE"
+      }
+    },
+    {
+      "objectId": "Htd5i0mKQz",
+      "RIGHT_EYE_DIAGNOSIS": "Cataract",
+      "PRODUCT": "zeroltedv",
+      "SEX": "Male",
+      "AGE": 42,
+      "MODEL": "SM-G925I",
+      "LEFT_EYE_REFRACTION": "zero",
+      "NAME": "fernando ",
+      "LEFT_EYE_DIAGNOSIS": "diabetic retinopathy ",
+      "RIGHT_EYE_REFRACTION": "zero ",
+      "DOCTOR_NAME": "Lísia Aoki",
+      "DEVICE": "zerolte",
+      "API_LEVEL": "24",
+      "createdAt": "2017-11-25T13:18:18.666Z",
+      "updatedAt": "2017-11-26T22:54:11.187Z",
+      "RIGHTWARD_GAZE": {
+        "__type": "File",
+        "name": "7aac2feb47228945b4dd4817b4ff8d4f_RIGHTWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/7aac2feb47228945b4dd4817b4ff8d4f_RIGHTWARD_GAZE"
+      },
+      "LEFTWARD_GAZE": {
+        "__type": "File",
+        "name": "1d2c2749d768b65a601cf155eeaa5b5e_LEFTWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/1d2c2749d768b65a601cf155eeaa5b5e_LEFTWARD_GAZE"
+      },
+      "FORWARD_GAZE": {
+        "__type": "File",
+        "name": "e01fdebe061df497aa419743c5648ed2_FORWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/e01fdebe061df497aa419743c5648ed2_FORWARD_GAZE"
+      },
+      "UPWARD_GAZE": {
+        "__type": "File",
+        "name": "54b50f45b5b9aee3beb3037a4c18bb11_UPWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/54b50f45b5b9aee3beb3037a4c18bb11_UPWARD_GAZE"
+      }
+    },
+    {
+      "objectId": "V9I7ttGGIh",
+      "RIGHT_EYE_DIAGNOSIS": "Retinoblastoma",
+      "PRODUCT": "heroqltevzw",
+      "AGE": 2,
+      "SEX": "Female",
+      "MODEL": "SM-G930V",
+      "NAME": "Kiernan brogan",
+      "LEFT_EYE_DIAGNOSIS": "Retinoblastoma",
+      "DOCTOR_NAME": "Hakan Demirci ",
+      "ETHNICITY": "white",
+      "DEVICE": "heroqltevzw",
+      "API_LEVEL": "24",
+      "createdAt": "2017-11-30T13:33:47.189Z",
+      "updatedAt": "2017-11-30T13:36:32.720Z",
+      "FORWARD_GAZE": {
+        "__type": "File",
+        "name": "e4e981ef0a2052992294bb74a73dd13b_FORWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/e4e981ef0a2052992294bb74a73dd13b_FORWARD_GAZE"
+      },
+      "UPWARD_GAZE": {
+        "__type": "File",
+        "name": "22ad53d9cd6cb4f8bcc586123b0b5a99_UPWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/22ad53d9cd6cb4f8bcc586123b0b5a99_UPWARD_GAZE"
+      },
+      "LEFTWARD_GAZE": {
+        "__type": "File",
+        "name": "a2ad5d0f379ff8283bc7db7a867c7bd7_LEFTWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/a2ad5d0f379ff8283bc7db7a867c7bd7_LEFTWARD_GAZE"
+      },
+      "RIGHTWARD_GAZE": {
+        "__type": "File",
+        "name": "56b4127187dd56f08a0c15c37c870a55_RIGHTWARD_GAZE",
+        "url": "https://parsefiles.back4app.com/vKmkK5Bw25DIQeOySJPGyzp1gH2ax46Zh9n0Jebo/56b4127187dd56f08a0c15c37c870a55_RIGHTWARD_GAZE"
+      }
+    }
+  ]
+}
