@@ -20,6 +20,7 @@ def dfs(mask, md, x, y):
 	md[3] = max(md[3], y)
 	md[4] += 1
 
+	# avoid stack overflow
 	if md[4] > 900:
 		return
 
@@ -33,22 +34,40 @@ def dfs(mask, md, x, y):
 		dfs(mask, md, new_x, new_y)
 
 def get_region(im, mask, det, scale):
+	# the basic idea is pick a starting point, and keep expand the regoin from the mask
+	# pick the region with the greatest size as the result region
+
 	im_size = im.shape[0] * im.shape[1]
 	target_md = [mask.shape[0], 0, mask.shape[1], 0, 0]
 	for i in range(0, mask.shape[0]):
 		for j in range(0, mask.shape[1]):
 			if mask[i][j] != 0:
+				# md[0]: x axis of the top left corner
+				# md[1]: y axis of the top left corner
+				# md[2]: x axis of the bottom right corner
+				# md[3]: y axis of the bottom right corner
+				# md[4]: number of pixels in the region
+				# md[5]: density of the pixel
+
 				md = [mask.shape[0], mask.shape[1], 0, 0, 0]
 				dfs(mask, md, i, j)
 				pupil_size = (md[2] - md[0] + 1) * (md[3] - md[1] + 1)
+				
+				# ignore the region when the pupil is too large or too small
 				if float(pupil_size) / im_size < SIZE_LOW_THRESHOLD or float(pupil_size) / im_size > SIZE_HIGH_THRESHOLD:
 					continue
 				md.append(np.float32(md[4]) / pupil_size)
+
+				# ignore the region when the density is too low
 				if md[5] < DENSITY_THRESHOLD:
 					continue
 				ratio = np.float32(md[2] - md[0] + 1) / (md[3] - md[1] + 1)
+
+				# ignore the region if the ratio of two sides is too large or too small
 				if ratio > RATIO_THRESHOLD or ratio < 1 / RATIO_THRESHOLD:
 					continue
+
+				# pick the region with the greatest size
 				if target_md[4] < md[4]:
 					target_md = md
 
@@ -108,6 +127,8 @@ def locate_pupil(org_im, det, gaze, black=False):
 	im = org_im
 	scale = 1
 	max_side = 60
+
+	# resize eye such that the longer side is at most 60 pixels
 	if max(im.shape[:2]) > max_side:
 		scale = np.float32(max(im.shape[:2])) / max_side
 		im = cv2.resize(im, (np.int(im.shape[1] / scale), np.int(im.shape[0] / scale)))
@@ -125,6 +146,7 @@ def locate_pupil(org_im, det, gaze, black=False):
 	# cv2.imshow("images", im)
 	# cv2.waitKey(0)
 
+	# convert image from RGB (BGR) to HSV
 	hsv = cv2.cvtColor(im, cv2.COLOR_BGR2HSV)
 	lower, upper = {}, {}
 
@@ -132,6 +154,7 @@ def locate_pupil(org_im, det, gaze, black=False):
 	if black:
 		color_set.append(['black1', 'black2'])
 	
+	# lower and upper hsv bound for different colors
 	lower['null'] = np.array([1, 1, 1])
 	upper['null'] = np.array([0, 0, 0])
 
@@ -153,15 +176,10 @@ def locate_pupil(org_im, det, gaze, black=False):
 	lower['black2'] = np.array([0, 0, 10])
 	upper['black2'] = np.array([60, 255, 50])
 
-	# lower['white'] = np.array([10, 20, 100])
-	# upper['white'] = np.array([255, 60, 160])
-
-	# lower['white2'] = np.array([10, 20, 100])
-	# upper['white2'] = np.array([60, 60, 160])
-
 	for colors in color_set:
 		mask = cv2.inRange(hsv, lower['null'], upper['null'])
 		for color in colors:
+			# get image mask for all the pixel within the color range
 			mask += cv2.inRange(hsv, lower[color], upper[color])
 
 		# out = cv2.bitwise_and(im, im, mask = mask)
@@ -170,11 +188,15 @@ def locate_pupil(org_im, det, gaze, black=False):
 		# cv2.imshow("images", mask)
 		# cv2.waitKey(0)
 
+		# get pupil region from the mask
 		region = get_region(im, mask, det, scale)
 
 		if region is not None:
 			return region
 
+	# if no pupil is detected, we use the HoughCircles method
+
+	# add white to the color set
 	color_set.append(['white1', 'white2'])
 	lower['white1'] = np.array([10, 20, 100])
 	upper['white1'] = np.array([255, 60, 160])
@@ -183,9 +205,11 @@ def locate_pupil(org_im, det, gaze, black=False):
 
 	im_gray = cv2.cvtColor(im, cv2.COLOR_BGR2GRAY)
 
+	# get all hough circles
 	circles = cv2.HoughCircles(im_gray, cv2.cv.CV_HOUGH_GRADIENT, 1, 15,
 		param1=50, param2=20, minRadius=0, maxRadius=0)
 
+	# if there is no hough circles, we return (we cannot find pupil)
 	if circles is None:
 		return
 	

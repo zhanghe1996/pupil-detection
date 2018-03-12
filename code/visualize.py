@@ -57,7 +57,9 @@ def main():
         if not os.path.isfile(image_path):
             continue
         
+        # load image
         im = cv2.imread(image_path)
+        # load eye positions from npy file
         npy_path = os.path.join(data_path, 'Annotations', 
                     image_name.split('.')[0] + '_eye.npy')
         dets = np.load(npy_path)
@@ -66,6 +68,7 @@ def main():
 
         remove = []
         overlap = [False] * len(dets)
+        # if there are more than two eyes detected, remove all overlapped smaller regions.
         if len(dets) > 2:
             for i in range(0, len(dets)):
                 for j in range(i + 1, len(dets)):
@@ -83,6 +86,7 @@ def main():
         for det in dets:
             det.append('eye')
             eye = im[det[1] : det[3], det[0] : det[2]]
+            # get pupil region within the eye region
             pupil = locate_pupil(eye, det, image_name.split('_')[1], args.consider_black)
             if pupil is not None:
                 pupils.append(pupil)
@@ -90,6 +94,7 @@ def main():
         for pupil in pupils:
             dets.append(pupil)
 
+        # show the image with the bounding boxes of eye and pupil
         vis_detections(im, dets)
         plt.show()
 
