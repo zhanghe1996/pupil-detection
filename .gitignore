@@ -1,2 +1,5 @@
+*.jpeg
+*.xml
 *.pyc
+eye_test/
 code/downsize.py

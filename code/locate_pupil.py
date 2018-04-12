@@ -92,38 +92,7 @@ def get_region(im, mask, det, scale):
 			'pupil'
 		]
 
-def get_regoin_from_circle(im, mask, det, scale, circle):
-	circle_size = circles[2] ** 2 * 4
-	target_md = [mask.shape[0], 0, mask.shape[1], 0, 0]
-	for i in range(0, mask.shape[0]):
-		for j in range(0, mask.shape[1]):
-			if mask[i][j] != 0:
-				print "dshfkjds"
-				md = [mask.shape[0], mask.shape[1], 0, 0, 0]
-				dfs(mask, md, i, j)
-				pupil_size = (md[2] - md[0] + 1) * (md[3] - md[1] + 1)
-				# if float(pupil_size) / circle_size < 0.2:
-				# 	continue
-				md.append(np.float32(md[4]) / pupil_size)
-				# if md[5] < DENSITY_THRESHOLD:
-				# 	continue
-				ratio = np.float32(md[2] - md[0] + 1) / (md[3] - md[1] + 1)
-				# if ratio > RATIO_THRESHOLD or ratio < 1 / RATIO_THRESHOLD:
-				# 	continue
-				if target_md[4] < md[4]:
-					target_md = md
-
-	if target_md[4] != 0:
-		return [
-			np.uint16(np.around(det[0] + scale * target_md[1])),
-			np.uint16(np.around(det[1] + scale * target_md[0])),
-			np.uint16(np.around(det[0] + scale * target_md[3])),
-			np.uint16(np.around(det[1] + scale * target_md[2])),
-			target_md[5],
-			'pupil'
-		]
-
-def locate_pupil(org_im, det, gaze, black=False):
+def locate_pupil(org_im, det, gaze):
 	im = org_im
 	scale = 1
 	max_side = 60
@@ -150,9 +119,7 @@ def locate_pupil(org_im, det, gaze, black=False):
 	hsv = cv2.cvtColor(im, cv2.COLOR_BGR2HSV)
 	lower, upper = {}, {}
 
-	color_set = [['red1', 'red2'], ['yellow1', 'yellow2']]
-	if black:
-		color_set.append(['black1', 'black2'])
+	color_set = [['red1', 'red2'], ['yellow1', 'yellow2'], ['black'], ['strict_black']]
 	
 	# lower and upper hsv bound for different colors
 	lower['null'] = np.array([1, 1, 1])
@@ -170,11 +137,17 @@ def locate_pupil(org_im, det, gaze, black=False):
 	lower['yellow2'] = np.array([35, 70, 40])
 	upper['yellow2'] = np.array([50, 100, 90])
 
-	lower['black1'] = np.array([150, 0, 0])
-	upper['black1'] = np.array([255, 255, 30])
+	# lower['black1'] = np.array([150, 0, 0])
+	# upper['black1'] = np.array([255, 255, 30])
 
-	lower['black2'] = np.array([0, 0, 10])
-	upper['black2'] = np.array([60, 255, 50])
+	# lower['black2'] = np.array([0, 0, 10])
+	# upper['black2'] = np.array([60, 255, 50])
+
+	lower['black'] = np.array([0, 0, 0])
+	upper['black'] = np.array([255, 255, 50])
+
+	lower['strict_black'] = np.array([0, 0, 0])
+	upper['strict_black'] = np.array([255, 255, 30])
 
 	for colors in color_set:
 		mask = cv2.inRange(hsv, lower['null'], upper['null'])
@@ -192,6 +165,7 @@ def locate_pupil(org_im, det, gaze, black=False):
 		region = get_region(im, mask, det, scale)
 
 		if region is not None:
+			# print colors
 			return region
 
 	# if no pupil is detected, we use the HoughCircles method
@@ -228,7 +202,8 @@ def locate_pupil(org_im, det, gaze, black=False):
 
 			if region is not None:
 				return region
-
+				
+	# print "circle"
 	return [
 		np.uint16(np.around(det[0] + scale * (circles[0][0][0] - circles[0][0][2]))),
 		np.uint16(np.around(det[1] + scale * (circles[0][0][1] - circles[0][0][2]))),

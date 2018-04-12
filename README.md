@@ -3,17 +3,22 @@
 ### Dataset Structure
 ```
 |__eye_test
-   |__Annotations
-      |__*.npy
-   |__Images
-      |__*.jpeg
-   |__ImageSets
-      |__test.txt
+   |__data
+      |__Annotations
+          |__*.npy
+      |__Images
+          |__*.jpeg
+      |__ImageSets
+          |__test.txt
 ```
 
-### Running the test
+### Visualize the pupil bounding boxes
 ```
 cd ROOT_DIR/code
-python visualize.py
+sh visualize.sh
 ```
-Notice that with **--black** flag we could detect black pupils. 
+### Generate xml files for pupil bounding boxes
+```
+cd ROOT_DIR/code
+sh annotation.sh
+```

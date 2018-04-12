@@ -3,13 +3,15 @@ import cv2
 import argparse
 import numpy as np
 import matplotlib.pyplot as plt
+import xml.etree.cElementTree as ET
 
 from locate_pupil import locate_pupil
 
 def parse_args():
     """Parse input arguments."""
     parser = argparse.ArgumentParser(description='Faster R-CNN demo')
-    parser.add_argument('--black', dest='consider_black', action='store_true')
+    parser.add_argument('--visualize', dest='if_visualize', action='store_true')
+    parser.add_argument('--annotation', dest='generate_annotation', action='store_true')
 
     args = parser.parse_args()
 
@@ -47,6 +49,7 @@ def main():
     args = parse_args()
     data_path = os.path.join('..', 'eye_test', 'data')
     image_set = os.path.join(data_path, 'ImageSets', 'test.txt')
+    output_path = os.path.join('..', 'Annotations')
     f = open(image_set, 'r')
     image_names = f.read().splitlines()
     f.close()
@@ -87,7 +90,7 @@ def main():
             det.append('eye')
             eye = im[det[1] : det[3], det[0] : det[2]]
             # get pupil region within the eye region
-            pupil = locate_pupil(eye, det, image_name.split('_')[1], args.consider_black)
+            pupil = locate_pupil(eye, det, image_name.split('_')[1])
             if pupil is not None:
                 pupils.append(pupil)
         
@@ -95,8 +98,24 @@ def main():
             dets.append(pupil)
 
         # show the image with the bounding boxes of eye and pupil
-        vis_detections(im, dets)
-        plt.show()
+        if args.if_visualize:
+            vis_detections(im, dets)
+            plt.show()
+
+        # generate xml files in the Annotation folder
+        if args.generate_annotation:
+            annotation = ET.Element('annotation')
+            for pupil in pupils:
+                pupil_object = ET.SubElement(annotation, "object")
+                bndbox = ET.SubElement(pupil_object, "bndbox")
+                ET.SubElement(bndbox, "xmin").text = str(pupil[0])
+                ET.SubElement(bndbox, "ymin").text = str(pupil[1])
+                ET.SubElement(bndbox, "xmax").text = str(pupil[2])
+                ET.SubElement(bndbox, "ymax").text = str(pupil[3])
+            tree = ET.ElementTree(annotation)
+            tree.write(os.path.join(output_path, image_name.split('.')[0] + '.xml'))
+
+
 
 if __name__ == '__main__':
     main()
